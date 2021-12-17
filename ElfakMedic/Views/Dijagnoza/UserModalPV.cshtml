@@ -1,0 +1,40 @@
+﻿@model ElfakMedic.Models.ViewModels.ReceptViewModel
+
+@{
+    Layout = "";
+}
+
+<div class="form-group modal-group">
+    <div>
+        <label for="recipient-name" class="col-form-label">Ime i prezime:</label>
+        <input type="text" class="form-control modal-input" id="recipient-name" name="recipient-name" required="required" />
+    </div>
+    <div>
+        <label for="jmbg" class="col-form-label">JMBG:</label>
+        <input type="text" class="form-control modal-input" id="jmbg" name="jmbg" required="required" />
+    </div>
+</div>
+<div class="form-group modal-group">
+    <div>
+        <label for="datum-rodjenja" class="col-form-label">Datum rođenja:</label>
+        <input type="date" class="form-control modal-input" id="datum-rodjenja" name="datum-rodjenja" required="required" />
+    </div>
+    <div>
+        <label for="broj-kartona" class="col-form-label">Broj kartona:</label>
+        <input type="text" class="form-control modal-input" id="broj-kartona" name="broj-kartona" required="required" />
+    </div>
+</div>
+<div class="form-group modal-group">
+    <div>
+        <label for="broj-knjizice" class="col-form-label">Broj knjizice:</label>
+        <input type="text" class="form-control modal-input" id="broj-knjizice" name="broj-knjizice" required="required" />
+    </div>
+    <div>
+        <label for="lbo" class="col-form-label">LBO:</label>
+        <input type="text" class="form-control modal-input" id="lbo" name="lbo" required="required" />
+    </div>
+</div>
+<div class="form-group textarea">
+    <label for="message-text" class="col-form-label">Anamneza:</label>
+    <textarea class="form-control" id="message-text" required="required"></textarea>
+</div>

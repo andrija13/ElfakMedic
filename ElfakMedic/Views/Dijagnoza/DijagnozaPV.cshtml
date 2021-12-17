@@ -1,0 +1,36 @@
+﻿@model ElfakMedic.Models.ViewModels.DijagnozaViewModel
+@{
+    Layout = "";
+}
+
+@if (Model.Dijagnoze.Count == 0)
+{
+    <div>
+        <h4>Nema rezultata pretrage</h4>
+    </div>
+}
+@foreach (var dijagnoza in Model.Dijagnoze)
+{
+    var classname = "level_" + dijagnoza.Level;
+    if (dijagnoza.Level < 2)
+    {
+        <div name="@dijagnoza.Root" class="@classname" style="cursor: pointer; width: fit-content;" onclick="GetByRoot('@dijagnoza.Id_dijagnoza', this)">
+            <h5><span><b>@dijagnoza.Id_dijagnoza</b></span> @dijagnoza.NazivSrpski</h5>
+        </div>
+        <div name="@dijagnoza.Root" id="@dijagnoza.Id_dijagnoza" class="level2 close">
+
+        </div>
+    }
+    else
+    {
+        <div name="@dijagnoza.Root" style="display: flex; align-items: center; width: fit-content;" class="@classname">
+            <h5><span><b>@dijagnoza.Id_dijagnoza</b></span></h5>
+            <h5 style="display: inline-block;">
+                @dijagnoza.NazivSrpski
+                <br />
+                <div style="color: rgb(132, 132, 138);">@dijagnoza.NazivLatinski</div>
+            </h5>
+            <button id="dodaj_@dijagnoza.Id_dijagnoza" class="btn btn-primary prepisi-lek" onclick="addTable('@dijagnoza.Id_dijagnoza',this)">Dodaj dijagnozu</button>
+        </div>
+    }
+}

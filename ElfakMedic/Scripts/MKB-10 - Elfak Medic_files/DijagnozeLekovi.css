@@ -1,0 +1,35 @@
+﻿.datatables {
+    font-family: Poppins;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.15);
+    --bs-table-hover-color: rgb(139, 181, 218);
+    --bs-table-hover-bg: rgba(184, 221, 253, 0.2);
+    color: #141414;
+}
+
+.datatables thead {
+    border-radius: 15px 15px 0 0;
+    -webkit-box-shadow: inset 0 0 50px 20px rgba(0, 135, 255, 0.2);
+    box-shadow: inset 0 0 500px 20px rgba(0, 135, 255, 0.2);
+    color: #8bb5da;
+}
+
+.datatables thead th {
+  padding: 15px;
+  font-weight: 500;
+  background-color: transparent;
+}
+
+td {
+  padding: 10px 15px 10px 15px !important;
+  border-width: 0 !important;
+  vertical-align: middle;
+}
+
+td span {
+  font-weight: 600;
+}
+
+tbody, tfoot, th, thead, td {
+  border-style: hidden !important;
+}

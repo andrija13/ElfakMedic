@@ -1,0 +1,192 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.level1, .level2 {
+    margin-left: 50px;
+}
+
+.level3 {
+    margin-left: 100px;
+}
+
+.open {
+    display: block;
+}
+
+.close {
+    display: none;
+}
+
+.someclass {
+    color: red;
+}
+
+.level0 {
+   display: flex;
+   cursor: pointer;
+}
+
+.level0 h5 {
+    display: inline-block; 
+    min-width: 7.5rem; 
+    align-self: center;
+}
+
+.level1 div h5 {
+    display: inline-block;
+    min-width: 7.5rem;
+    align-self: center;
+}
+
+.level2 div {
+    cursor: pointer;
+}
+
+.level2 div h5:first-child {
+    display: inline-block;
+    min-width: 5.5rem;
+    align-self: center;
+}
+
+h5 {
+    color: #002ba5eb;
+}
+
+#MKB-10 {
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+#searchMKB {
+    margin-left: 50px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    max-width: 500px;
+    width: 500px;
+    position: absolute;
+    top: 38px;
+    z-index: 2;
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+.fixbar {
+    margin-left: 44px;
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    left: 0px;
+    top: 38px;
+    z-index: 1;
+    background: white;
+}
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+}
+
+/* Sidebar */
+#sidebar-wrapper {
+  flex-direction: column;
+  z-index: 1;
+  position: absolute;
+  overflow: auto;
+  width: 0;
+  height: 100%;
+  background: white;
+  opacity: 1;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  right: 0;
+  -webkit-box-shadow: -2px 3px 8px 0 #0000011f;
+          box-shadow: -2px 3px 8px 0 #0000011f;
+}
+
+/* Main Content */
+#page-content-wrapper {
+  width: 100%;
+  padding: 15px;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+}
+
+#menu-toggle {
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  font-size: 24px;
+}
+
+/* Change the width of the sidebar to display it*/
+#wrapper.menuDisplayed #sidebar-wrapper {
+  width: 800px;
+  padding: 25px;
+}
+
+/* Sidebar styling */
+.sidebar-nav {
+  padding: 0;
+  list-style: none;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+  width: 100%;
+  text-align: center;
+}
+
+.sidebar-nav li {
+  line-height: 40px;
+  width: 100%;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+  padding: 10px;
+}
+
+.sidebar-nav li a {
+  display: block;
+  text-decoration: none;
+  color: #ddd;
+}
+
+.sidebar-nav li:hover {
+  background: #846bab;
+}
+
+.sidebar-naslov{
+    display: flex;
+    align-items: center;
+}
+
+.zatvori{
+    position: absolute;
+    top: 0;
+    right: 0;
+}

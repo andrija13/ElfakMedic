@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Elfak Medic</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Elfak Medic", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("MKB-10", "Index", "Dijagnoza")</li>
+                </ul>
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Lekovi", "Index", "Lekovi")</li>
+                </ul>
+                <ul class="nav navbar-nav upload-menu" style="display: flex; float: right">
+                    <button type="button" class="btn btn-primary sidebar-button" data-toggle="modal" data-target="#uploadModal">Ucitavanje novih tabela</button>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="uploadModal" tabindex="-1" role="dialog" aria-labelledby="uploadModalLabel" aria-hidden="true">
+        <div class="modal-dialog file-upload" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="exampleModalLabel">Upload novih tabela</h4>
+                    <button type="button" class="close-modal upload-close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                @using (Ajax.BeginForm("UploadXML", "Home", null, new AjaxOptions { OnSuccess = "AjaxOnSuccessUpload", OnFailure = "AjaxOnFailureUpload", HttpMethod = "POST" }, new { enctype = "multipart/form-data", id = "form-upload" }))
+                {
+                    <div class="modal-body">
+                        <img src="~/Content/iconUpload.png" />
+                        <input type="file" class="filestyle" data-btnClass="btn-myBtn" data-text="Izaberite ili prevucite fajlove" data-input="false" data-badge="true" data-badgeName="badge-danger" name="xmlFiles" accept="text/xml,application/xml" multiple="multiple" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary odustani-btn" data-dismiss="modal">Odustani</button>
+                        <button type="submit" class="btn btn-primary upload-btn">Učitaj</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <footer class="footer">
+        <p>&copy; @DateTime.Now.Year - Elfak Medic</p>
+    </footer>
+    @*@Scripts.Render("~/bundles/jquery")*@
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script src="~/Scripts/bootstrap-filestyle.js"></script>
+    <script>
+        function AjaxOnSuccessUpload(result) {
+            HideLoader();
+            Swal.fire({
+                title: 'Izveštaj: \n' + result.Message,
+                confirmButtonText: 'OK',
+                icon: 'info'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    location.reload();
+                }
+            });
+        }
+
+        function AjaxOnFailureUpload(result) {
+            HideLoader();
+            Swal.fire({
+                title: 'Došlo je do greške! \n' + result.Message,
+                confirmButtonText: 'OK',
+                icon: 'error'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    location.reload();
+                }
+            });
+        }
+    </script>
+
+
+</body>
+</html>

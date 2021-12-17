@@ -1,0 +1,67 @@
+﻿@model ElfakMedic.Models.ViewModels.LekoviViewModel
+
+@{
+    ViewBag.Title = "Lekovi";
+}
+<link href="~/Content/datatables.css" rel="stylesheet" />
+<link href="~/Content/select2.min.css" rel="stylesheet" />
+<link href="~/Content/select2-bootstrap.css" rel="stylesheet" />
+<link href="~/Content/DijagnozeLekovi.css" rel="stylesheet" />
+
+<div class="header-title">
+    <h2 class="drugs">Lekovi</h2>
+    <button type="button" class="btn btn-primary create-dijagnoza sidebar-button" onclick="openCreateModal()">Kreiraj lek</button>
+</div>
+
+<table id="lekDataTable" class="datatables table table-bordered table-hover data-table dataTable" style="width:100% !important">
+    <thead>
+        <tr>
+            <th>Naziv</th>
+            <th>Proizvodjac</th>
+            <th>Lista RFZO</th>
+            <th>DDD</th>
+            <th>Na recept</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+<div class="overlayLoader" id="overlayLoader"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div>
+
+<div class="modal fade" id="createLekModel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="exampleModalLabel">Kreiranje leka</h4>
+                <button type="button" class="close-modal" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary odustani-btn" data-dismiss="modal">Odustani</button>
+                <button type="submit" class="btn btn-primary upload-btn" onclick="createLek(event)">Kreiraj lek</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<script src="~/Scripts/ViewScripts/Lekovi.js"></script>
+<script src="~/Scripts/select2.min.js"></script>
+<script src="~/Scripts/sweetalert2.min.js"></script>
+<script src="~/Scripts/sweetalert2.all.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/pagination-input.js"></script>
+
+<script type="text/javascript">
+    var dataForDatatable = @Html.Raw(Json.Encode(Model.Lekovi));
+    initializeDataTable(dataForDatatable);
+</script>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<SifarniciZaRecepte xmlns="http://tempuri.org/sifarnicizarecepte.xsd">
+  <sListaLek>
+    <ID_Lista>1</ID_Lista>
+    <Naziv>A lista</Naziv>
+    <SkraceniNaziv>A</SkraceniNaziv>
+  </sListaLek>
+  <sListaLek>
+    <ID_Lista>2</ID_Lista>
+    <Naziv>B lista</Naziv>
+    <SkraceniNaziv>B</SkraceniNaziv>
+  </sListaLek>
+  <sListaLek>
+    <ID_Lista>3</ID_Lista>
+    <Naziv>C lista</Naziv>
+    <SkraceniNaziv>C</SkraceniNaziv>
+  </sListaLek>
+  <sListaLek>
+    <ID_Lista>4</ID_Lista>
+    <Naziv>D lista</Naziv>
+    <SkraceniNaziv>D</SkraceniNaziv>
+  </sListaLek>
+</SifarniciZaRecepte>

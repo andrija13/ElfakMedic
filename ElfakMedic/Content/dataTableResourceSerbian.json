@@ -1,0 +1,22 @@
+﻿{
+  "emptyTable": "Nisu pronađeni rezulati pretrage",
+  "info": "Prikazano _START_ do _END_ od ukupno _TOTAL_ elemenata",
+  "infoEmpty": "Prikazano 0 do 0 od ukupno 0 elemenata",
+  "infoFiltered": "(filtrirano ukupno _MAX_ elemenata)",
+  "infoThousands": ".",
+  "lengthMenu": "Prikaži _MENU_ elemenata",
+  "loadingRecords": "Učitavanje...",
+  "processing": "Оbrada...",
+  "search": "Pretraga:",
+  "zeroRecords": "Nisu pronađeni rezultati pretrage",
+  "paginate": {
+    "first": "«",
+    "last": "»",
+    "next": ">",
+    "previous": "<"
+  },
+  "aria": {
+    "sortAscending": ": aktivirajte da sortirate kolonu uzlazno",
+    "sortDescending": ": aktivirajte da sortrate kolonu silazno"
+  }
+}

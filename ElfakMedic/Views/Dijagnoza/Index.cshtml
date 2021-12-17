@@ -1,0 +1,107 @@
+﻿@model ElfakMedic.Models.ViewModels.DijagnozaViewModel
+@using ElfakMedic.Models.ViewModels
+@{
+    ViewBag.Title = "MKB-10";
+}
+
+<link href="~/Content/datatables.css" rel="stylesheet" />
+<link href="~/Content/DijagnozeLekovi.css" rel="stylesheet" />
+<link href="~/Content/sweetalert2.min.css" rel="stylesheet" />
+
+    <div class="row fixbar">
+        <div class="header-title">
+            <h2>MKB-10</h2>
+            <button type="button" class="btn btn-primary create-dijagnoza sidebar-button" onclick="openCreateModal()">Kreiraj dijagnozu</button>
+            <a href="#" class="btn btn-outline-primary otvori" id="menu-open">
+                <i class="glyphicon glyphicon-th-list"></i>
+            </a>
+        </div>
+        <input type="search" autocomplete="off" onkeyup="doSearch(event)" class="form-control" id="searchMKB" placeholder="Pretraga (unesite bar 3 karaktera)...">
+    </div>
+    <div id="wrapper">
+        <div id="sidebar-wrapper">
+            <div class="sidebar-submit">
+                <a href="#" class="btn btn-outline-primary zatvori" id="menu-toggle">
+                    <i class="glyphicon glyphicon-remove-circle"></i>
+                </a>
+                <button type="button" class="btn btn-primary sidebar-button" data-toggle="modal" data-target="#exampleModal">Popuni informacije o pacijentu</button>
+            </div>
+        </div>
+    </div>
+    <div id="MKB-10" class="row">
+        <div class="col-md-12">
+            @foreach (var dijagnoza in Model.Dijagnoze)
+            {
+                <div class="level0" onclick="GetByRoot('@dijagnoza.Id_dijagnoza', this)">
+                    <h5><span><b>@dijagnoza.Id_dijagnoza</b></span> @dijagnoza.NazivSrpski</h5>
+                </div>
+                <div id="@dijagnoza.Id_dijagnoza" class="level1 close">
+
+                </div>
+            }
+        </div>
+<div class="overlay" id="overlayAll"></div>
+
+<button type="button" class="btn btn-primary btn-floating btn-lg" id="btn-back-to-top" onclick="backToTop()">
+    <i class="glyphicon glyphicon-arrow-up"></i>
+</button>
+
+</div>
+
+<div class="overlayLoader" id="overlayLoader"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <form id="myForm" autocomplete="off">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="exampleModalLabel">Informacije o pacijentu</h4>
+                    <button type="button" class="close-modal" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    @{
+                        var modelPV = new ReceptViewModel();
+                        @Html.Partial("UserModalPV", modelPV);
+                    }
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary odustani-btn" data-dismiss="modal">Odustani</button>
+                    <button type="submit" class="btn btn-primary upload-btn" onclick="onClickSubmitForm(event)">Prepiši recept</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="modal fade" id="createDijagnozaModel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="exampleModalLabel">Kreiranje dijagnoze</h4>
+                <button type="button" class="close-modal" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary odustani-btn" data-dismiss="modal">Odustani</button>
+                <button type="submit" class="btn btn-primary upload-btn" onclick="createDijagnoza(event)">Kreiraj dijagnozu</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<script src="~/Scripts/ViewScripts/Dijagnoza.js"></script>
+<script src="~/Scripts/sweetalert2.min.js"></script>
+<script src="~/Scripts/sweetalert2.all.min.js"></script>
+<script src="~/Scripts/bootstrap-input-spinner.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/pagination-input.js"></script>

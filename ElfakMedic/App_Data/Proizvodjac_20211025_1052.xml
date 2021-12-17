@@ -1,0 +1,2998 @@
+<?xml version="1.0" standalone="yes"?>
+<SifarniciZaRecepte xmlns="http://tempuri.org/SifarniciZaRecepte.xsd">
+  <Proizvodjac>
+    <ID_Proizvodjac>1</ID_Proizvodjac>
+    <NazivP>Aegis Ltd.</NazivP>
+    <DrugiNaziv>AEG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Kipar</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>2</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d.</NazivP>
+    <DrugiNaziv>ALK</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>3</ID_Proizvodjac>
+    <NazivP>Altana Pharma AG</NazivP>
+    <DrugiNaziv>ALT</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>4</ID_Proizvodjac>
+    <NazivP>Apotekarska ustanova Beograd</NazivP>
+    <DrugiNaziv>AUB</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>5</ID_Proizvodjac>
+    <NazivP>AstraZeneca UK Limited</NazivP>
+    <DrugiNaziv>AZE</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>6</ID_Proizvodjac>
+    <NazivP>Aventis Intercontinental</NazivP>
+    <DrugiNaziv>AIN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>7</ID_Proizvodjac>
+    <NazivP>Aventis Pharma GMBH</NazivP>
+    <DrugiNaziv>APH</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>8</ID_Proizvodjac>
+    <NazivP>Belupo d.d.</NazivP>
+    <DrugiNaziv>BEL</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>9</ID_Proizvodjac>
+    <NazivP>Berlin-Chemie AG (Menarini Group)</NazivP>
+    <DrugiNaziv>BCH</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>10</ID_Proizvodjac>
+    <NazivP>Boehringer Ingelheim Pharma GmbH</NazivP>
+    <DrugiNaziv>BIN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>11</ID_Proizvodjac>
+    <NazivP>Bosnalijek d.d.</NazivP>
+    <DrugiNaziv>BOS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Bosna i Hercegovina</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>12</ID_Proizvodjac>
+    <NazivP>Bristol Myers-Squibb</NazivP>
+    <DrugiNaziv>BMS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>13</ID_Proizvodjac>
+    <NazivP>Ebewe Pharma Ges. M.B.H NFG. KG</NazivP>
+    <DrugiNaziv>EBW</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>14</ID_Proizvodjac>
+    <NazivP>F. Hoffmann-La Roche Ltd.</NazivP>
+    <DrugiNaziv>HLR</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>15</ID_Proizvodjac>
+    <NazivP>Fampharm</NazivP>
+    <DrugiNaziv>FAM</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>16</ID_Proizvodjac>
+    <NazivP>Farmakos Beograd</NazivP>
+    <DrugiNaziv>FAR</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>17</ID_Proizvodjac>
+    <NazivP>Fujisawa</NazivP>
+    <DrugiNaziv>FUJ</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>18</ID_Proizvodjac>
+    <NazivP>Galenika a.d.</NazivP>
+    <DrugiNaziv>GAL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>19</ID_Proizvodjac>
+    <NazivP>GlaxoSmithKline</NazivP>
+    <DrugiNaziv>GSK</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>20</ID_Proizvodjac>
+    <NazivP>Grunenthal GMBH</NazivP>
+    <DrugiNaziv>GRU</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>21</ID_Proizvodjac>
+    <NazivP>Habit Pharm a.d.</NazivP>
+    <DrugiNaziv>HAB</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>22</ID_Proizvodjac>
+    <NazivP>Hemofarm AD Vršac</NazivP>
+    <DrugiNaziv>HEM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>23</ID_Proizvodjac>
+    <NazivP>Hemomont d.o.o.</NazivP>
+    <DrugiNaziv>HMM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Crna Gora</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>24</ID_Proizvodjac>
+    <NazivP>Hexal AG</NazivP>
+    <DrugiNaziv>HEX</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>25</ID_Proizvodjac>
+    <NazivP>Valeant Pharmaceuticals GmbH</NazivP>
+    <DrugiNaziv>VPH</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>26</ID_Proizvodjac>
+    <NazivP>Jugoremedija a.d.</NazivP>
+    <DrugiNaziv>JUG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>27</ID_Proizvodjac>
+    <NazivP>Pliva-Lachema a.s.</NazivP>
+    <DrugiNaziv>PLI</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>28</ID_Proizvodjac>
+    <NazivP>Merck KGaA</NazivP>
+    <DrugiNaziv>MKG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>29</ID_Proizvodjac>
+    <NazivP>Merz Pharmaceuticals GmbH</NazivP>
+    <DrugiNaziv>MPH</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>30</ID_Proizvodjac>
+    <NazivP>Novartis Pharma Services</NazivP>
+    <DrugiNaziv>NPS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>31</ID_Proizvodjac>
+    <NazivP>Novo Nordisk A/S</NazivP>
+    <DrugiNaziv>NNO</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Danska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>32</ID_Proizvodjac>
+    <NazivP>N.V. Organon</NazivP>
+    <DrugiNaziv>ORG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>33</ID_Proizvodjac>
+    <NazivP>Panfarma d.o.o.</NazivP>
+    <DrugiNaziv>PAN</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>34</ID_Proizvodjac>
+    <NazivP>Pfizer PGM</NazivP>
+    <DrugiNaziv>PHE</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>35</ID_Proizvodjac>
+    <NazivP>Pharmacia Enterprises</NazivP>
+    <DrugiNaziv>PHI</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>36</ID_Proizvodjac>
+    <NazivP>Remevita d.o.o.</NazivP>
+    <DrugiNaziv>REM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>37</ID_Proizvodjac>
+    <NazivP>Sanitarija</NazivP>
+    <DrugiNaziv>SAN</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>38</ID_Proizvodjac>
+    <NazivP>Sanofi-Synthelabo Group</NazivP>
+    <DrugiNaziv>SSG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>39</ID_Proizvodjac>
+    <NazivP>Schering AG</NazivP>
+    <DrugiNaziv>SAG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>40</ID_Proizvodjac>
+    <NazivP>Schering Plough Labo N.V.</NazivP>
+    <DrugiNaziv>SPL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>41</ID_Proizvodjac>
+    <NazivP>Sigmapharm</NazivP>
+    <DrugiNaziv>SIG</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>42</ID_Proizvodjac>
+    <NazivP>Slaviamed d.o.o.</NazivP>
+    <DrugiNaziv>SLA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>43</ID_Proizvodjac>
+    <NazivP>Srbolek a.d.</NazivP>
+    <DrugiNaziv>SRB</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>44</ID_Proizvodjac>
+    <NazivP>Tomekos Pharma</NazivP>
+    <DrugiNaziv>TOM</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>45</ID_Proizvodjac>
+    <NazivP>Ufar d.o.o.</NazivP>
+    <DrugiNaziv>UFA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>46</ID_Proizvodjac>
+    <NazivP>UPSA laboratories</NazivP>
+    <DrugiNaziv>UPS</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>47</ID_Proizvodjac>
+    <NazivP>Wyeth-Lederle Pharma</NazivP>
+    <DrugiNaziv>WYL</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>48</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d.</NazivP>
+    <DrugiNaziv>ZDR</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>49</ID_Proizvodjac>
+    <NazivP>Hemofarm Koncern "Zorka Pharma" a.d.</NazivP>
+    <DrugiNaziv>HZP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>0</ID_Proizvodjac>
+    <NazivP>Nepoznat</NazivP>
+    <DrugiNaziv>NNN</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>50</ID_Proizvodjac>
+    <NazivP>Janssen Pharmaceutica N.V.</NazivP>
+    <DrugiNaziv>JAN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>51</ID_Proizvodjac>
+    <NazivP>Ferring International Center SA</NazivP>
+    <DrugiNaziv>FER</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>52</ID_Proizvodjac>
+    <NazivP>Chephasaar Chem. Pharm.</NazivP>
+    <DrugiNaziv>CCP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>53</ID_Proizvodjac>
+    <NazivP>Demo S.A.</NazivP>
+    <DrugiNaziv>DEM</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>54</ID_Proizvodjac>
+    <NazivP>Dr Falk Pharma GmbH</NazivP>
+    <DrugiNaziv>DRF</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>55</ID_Proizvodjac>
+    <NazivP>Innotech International</NazivP>
+    <DrugiNaziv>INN</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>56</ID_Proizvodjac>
+    <NazivP>Liconsa S.A.</NazivP>
+    <DrugiNaziv>LIC</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>57</ID_Proizvodjac>
+    <NazivP>Medis d.o.o</NazivP>
+    <DrugiNaziv>MED</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>58</ID_Proizvodjac>
+    <NazivP>Pharmanova d.o.o.</NazivP>
+    <DrugiNaziv>PHA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>59</ID_Proizvodjac>
+    <NazivP>Remedica Ltd.</NazivP>
+    <DrugiNaziv>RML</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Kipar</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>60</ID_Proizvodjac>
+    <NazivP>Les Laboratoires Servier</NazivP>
+    <DrugiNaziv>LLS</DrugiNaziv>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>61</ID_Proizvodjac>
+    <NazivP>Unimed Pharma S.R.O.</NazivP>
+    <DrugiNaziv>UPH</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Slovačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>62</ID_Proizvodjac>
+    <NazivP>G. Pohl-Boskamp GmbH &amp; Co. KG</NazivP>
+    <DrugiNaziv>PBO</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>63</ID_Proizvodjac>
+    <NazivP>T-G Farm</NazivP>
+    <DrugiNaziv>TGF</DrugiNaziv>
+    <StaraSifra />
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>64</ID_Proizvodjac>
+    <NazivP>Krka Tovarna Zdravil d.d.</NazivP>
+    <DrugiNaziv>KRK</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>65</ID_Proizvodjac>
+    <NazivP>Nippon Kayaku Co. Ltd.</NazivP>
+    <DrugiNaziv>NIP</DrugiNaziv>
+    <Zemlja>Japan</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>66</ID_Proizvodjac>
+    <NazivP>STADA Arzneimittel AG</NazivP>
+    <DrugiNaziv>STD</DrugiNaziv>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>67</ID_Proizvodjac>
+    <NazivP>Lilly France S.A.S.</NazivP>
+    <DrugiNaziv>ELI</DrugiNaziv>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>68</ID_Proizvodjac>
+    <NazivP>Novartis Ltd</NazivP>
+    <DrugiNaziv>ABB</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>69</ID_Proizvodjac>
+    <NazivP>Alcon-Couvreur</NazivP>
+    <DrugiNaziv>ALC</DrugiNaziv>
+    <Zemlja>Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>70</ID_Proizvodjac>
+    <NazivP>Bayer Pharma doo</NazivP>
+    <DrugiNaziv>BAY</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>71</ID_Proizvodjac>
+    <NazivP>H. Lundbeck A/S</NazivP>
+    <DrugiNaziv>LUN</DrugiNaziv>
+    <Zemlja>Danska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>72</ID_Proizvodjac>
+    <NazivP>Lek dd</NazivP>
+    <DrugiNaziv>LEK</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>73</ID_Proizvodjac>
+    <NazivP>PharmaSwiss d.o.o.</NazivP>
+    <DrugiNaziv>PSW</DrugiNaziv>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>77</ID_Proizvodjac>
+    <NazivP>Sanofi Winthrop Industrie</NazivP>
+    <DrugiNaziv>SWI</DrugiNaziv>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>74</ID_Proizvodjac>
+    <NazivP>Polfarmex S.A</NazivP>
+    <DrugiNaziv>POL</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>75</ID_Proizvodjac>
+    <NazivP>Pro. Med. CS Praha A.S.</NazivP>
+    <DrugiNaziv>PMP</DrugiNaziv>
+    <Zemlja>Češka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>76</ID_Proizvodjac>
+    <NazivP>Ranbaxy Laboratories LTD</NazivP>
+    <DrugiNaziv>RAM</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>78</ID_Proizvodjac>
+    <NazivP>Merck Sharp &amp; Dohme</NazivP>
+    <DrugiNaziv>MSD</DrugiNaziv>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>79</ID_Proizvodjac>
+    <NazivP>KrkaFarma d.o.o</NazivP>
+    <DrugiNaziv>KRF</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>80</ID_Proizvodjac>
+    <NazivP>Merck Sante</NazivP>
+    <DrugiNaziv>MSA</DrugiNaziv>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>81</ID_Proizvodjac>
+    <NazivP>Dr Gerhard Mann Chem. Pharm. Fabrik GmbH</NazivP>
+    <DrugiNaziv>DRG</DrugiNaziv>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>82</ID_Proizvodjac>
+    <NazivP>Gedeon Richter PLC</NazivP>
+    <DrugiNaziv>GRH</DrugiNaziv>
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>83</ID_Proizvodjac>
+    <NazivP>Ni Medic d.o.o.</NazivP>
+    <DrugiNaziv>NIM</DrugiNaziv>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>84</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome Operations</NazivP>
+    <DrugiNaziv>GWO</DrugiNaziv>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>85</ID_Proizvodjac>
+    <NazivP>Cilag AG</NazivP>
+    <DrugiNaziv>CIL</DrugiNaziv>
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>86</ID_Proizvodjac>
+    <NazivP>Janssen-Cilag S.P.A.</NazivP>
+    <DrugiNaziv>JCS</DrugiNaziv>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>87</ID_Proizvodjac>
+    <NazivP>GlaxoSmithKline Pharmaceuticals S.A.</NazivP>
+    <DrugiNaziv>GPS</DrugiNaziv>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>88</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome Production</NazivP>
+    <DrugiNaziv>GWP</DrugiNaziv>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>354</ID_Proizvodjac>
+    <NazivP>Actavis Nordic A/S</NazivP>
+    <Zemlja>Danska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>355</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa  GlaxoSmithKline Export Ltd. Velika Britanija</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>356</ID_Proizvodjac>
+    <NazivP>Famar Orleans</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>357</ID_Proizvodjac>
+    <NazivP>Haupt Pharma Latina S.R.L.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>358</ID_Proizvodjac>
+    <NazivP>Kemwell AB</NazivP>
+    <Zemlja>Švedska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>359</ID_Proizvodjac>
+    <NazivP>Wyeth Pharmaceuticals; Pfizer Ireland Pharmaceuticals</NazivP>
+    <Zemlja>Velika Britanija; Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>360</ID_Proizvodjac>
+    <NazivP>Merck KGaA; Merck KGaA &amp; Co. WERK SPITTAL</NazivP>
+    <Zemlja>Nemačka; Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>361</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceutical Works Private Ltd. Company; Pliva Hrvatska</NazivP>
+    <Zemlja>Mađarska; Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>362</ID_Proizvodjac>
+    <NazivP>Novartis Pharma Produktions GmbH; Meda Pharma GmbH &amp; Co. KG</NazivP>
+    <Zemlja>Nemačka; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>365</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>366</ID_Proizvodjac>
+    <NazivP>Pharmanova d.o.o. u saradnji sa Krka Tovarna Zdravil d.d., Slovenija</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>367</ID_Proizvodjac>
+    <NazivP>Merck Sante S.A.S; Merck S.L.; Merck KGaA; Merck KGaA &amp; Co. WERK SPITTAL</NazivP>
+    <Zemlja>Francuska; Španija; Nemačka; Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>368</ID_Proizvodjac>
+    <NazivP>Abbott Laboratories GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>369</ID_Proizvodjac>
+    <NazivP>Aeropharm GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>370</ID_Proizvodjac>
+    <NazivP>Ave Pharmaceutical d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>371</ID_Proizvodjac>
+    <NazivP>Laboratoires Mayoly Spindler</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>372</ID_Proizvodjac>
+    <NazivP>Medac Gesellschaft fur Klinische Spezialpraparate M.B.H</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>373</ID_Proizvodjac>
+    <NazivP>Worwag Pharma GmbH &amp; Co. KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>374</ID_Proizvodjac>
+    <NazivP>Zentiva K.S.</NazivP>
+    <Zemlja>Češka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>375</ID_Proizvodjac>
+    <NazivP>Takeda GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>376</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceutical Industries Ltd; Pharmachemie B.V.</NazivP>
+    <Zemlja>Izrael; Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>380</ID_Proizvodjac>
+    <NazivP>Orion Corporation Orion Pharma</NazivP>
+    <Zemlja>Finska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>381</ID_Proizvodjac>
+    <NazivP>SHS International Ltd.</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>391</ID_Proizvodjac>
+    <NazivP>Cell pharm GmbH; Siegfried Generics (Malta) Ltd; Haupt pharma Munster GmbH; Stad</NazivP>
+    <Zemlja>Nemačka; Malta; Nemačka; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>392</ID_Proizvodjac>
+    <NazivP>Galenika a.d. u restruktuiranju</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>393</ID_Proizvodjac>
+    <NazivP>Krka, Tovarna Zdravil d.d; Tad Pharma GmbH</NazivP>
+    <Zemlja>Slovenija; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>394</ID_Proizvodjac>
+    <NazivP>Reckitt Benckiser Healthcare (UK) Limited</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>395</ID_Proizvodjac>
+    <NazivP>Synthon Hispania, S.L.; Zdravlje A.D</NazivP>
+    <Zemlja>Španija; Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>396</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceutical Works Private Limited Company; Teva Pharmaceutical Industrie</NazivP>
+    <Zemlja>Mađarska; Izrael; Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>397</ID_Proizvodjac>
+    <NazivP>Tecnimede Sociedada tecnico Medicinal S.A.; Cell Pharm GmbH; Haupt Pharma Munste</NazivP>
+    <Zemlja>Portugalija; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>398</ID_Proizvodjac>
+    <NazivP>Teva Operations Poland SP.Z.O.O.; Pliva Hrvatska d.o.o.</NazivP>
+    <Zemlja>Poljska; Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>382</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceutical Industries Ltd.; Teva Operations Poland SP.Z.O.O.</NazivP>
+    <Zemlja>Izrael</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>384</ID_Proizvodjac>
+    <NazivP>Abbvie Deutschland GMBH &amp; Co. KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>385</ID_Proizvodjac>
+    <NazivP>Janssen Pharmaceutica N.V.; Janssen-Cilag S.P.A</NazivP>
+    <Zemlja>Belgija; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>386</ID_Proizvodjac>
+    <NazivP>Actavis Group PTC EHF</NazivP>
+    <Zemlja>Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>387</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa Sanofi Winthrop Industrie, Francuska;  Sanofi Winthr</NazivP>
+    <Zemlja>Republika Srbija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>388</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa Sanofi Winthrop Industrie, Francuska; Unither Liquid</NazivP>
+    <Zemlja>Republika Srbija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>389</ID_Proizvodjac>
+    <NazivP>Galenika a.d., Srbija u saradnji sa F. Hoffmann-La Roche Ltd.</NazivP>
+    <Zemlja>Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>390</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome Operations; Glaxo Wellcome Production</NazivP>
+    <Zemlja>Velika Britanija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>399</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome S.A.; GlaxoSmithKline Pharmaceuticals S.A.</NazivP>
+    <Zemlja>Španija; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>400</ID_Proizvodjac>
+    <NazivP>Actavis EHF</NazivP>
+    <Zemlja>Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>401</ID_Proizvodjac>
+    <NazivP>Actavis EHF; Balkanpharma-Dupnitsa AD</NazivP>
+    <Zemlja>Island; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>402</ID_Proizvodjac>
+    <NazivP>Actavis LTD; Actavis EHF</NazivP>
+    <Zemlja>Malta; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>403</ID_Proizvodjac>
+    <NazivP>Actavis LTD; Actavis EHF; Balkanpharma-Dupnitsa AD</NazivP>
+    <Zemlja>Malta; Island; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>404</ID_Proizvodjac>
+    <NazivP>Anpharm Przedsiebiorstwo Farmaceutyczne S.A.; Servier (Ireland) Industries Ltd;</NazivP>
+    <Zemlja>Poljska; Irska; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>405</ID_Proizvodjac>
+    <NazivP>Famar Lyon; Merck S.L.; Merck KGaA &amp; Co. WerK Spittal; Merck Sante S.A.S.; Merck</NazivP>
+    <Zemlja>Francuska; Španija; Austrija; Francuska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>406</ID_Proizvodjac>
+    <NazivP>Farmaceutisch Analytisch Laboratorium Duiven B.V</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>407</ID_Proizvodjac>
+    <NazivP>Krka Farma d.o.o, DPC Jastrebsko</NazivP>
+    <Zemlja>Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>408</ID_Proizvodjac>
+    <NazivP>Krka Tovarna Zdravil d.d. u saradnji sa Janssen Pharmaceutica N.V, Belgija</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>409</ID_Proizvodjac>
+    <NazivP>Laboratorios Leon Farma S.A</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>410</ID_Proizvodjac>
+    <NazivP>Merck Serono S.P.A</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>411</ID_Proizvodjac>
+    <NazivP>Pliva Hrvatska d.o.o.; Teva Operations Poland SP.Z.O.O.</NazivP>
+    <Zemlja>Hrvatska; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>412</ID_Proizvodjac>
+    <NazivP>Recipharm Fontaine</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>413</ID_Proizvodjac>
+    <NazivP>S.I.F.I. S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>414</ID_Proizvodjac>
+    <NazivP>Teva Pharma S.L.U.</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>415</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceuticals Works Private Limited Company; Teva Operation Poland SP.Z.O</NazivP>
+    <Zemlja>Mađarska; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>204</ID_Proizvodjac>
+    <NazivP>IBSA Institut Biochemique S.A.</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>205</ID_Proizvodjac>
+    <NazivP>Bayer Schering Pharma AG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>220</ID_Proizvodjac>
+    <NazivP>Sofarimex-Industria Quimica E Farmaceutica</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>232</ID_Proizvodjac>
+    <NazivP>L. Molteni &amp; C. Dei F. LLI Alitti Societa Di Esercizio S.P.A.</NazivP>
+    <DrugiNaziv>ACR</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>233</ID_Proizvodjac>
+    <NazivP>Sandoz Private Limited</NazivP>
+    <DrugiNaziv>SPL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Indija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>234</ID_Proizvodjac>
+    <NazivP>Excella GmbH</NazivP>
+    <DrugiNaziv>EXC</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>235</ID_Proizvodjac>
+    <NazivP>Bristol Myers-Squibb S.R.L.</NazivP>
+    <DrugiNaziv>BMI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>236</ID_Proizvodjac>
+    <NazivP>Lilly France S.A.S.; Eli Lilly Italia S.P.A.</NazivP>
+    <DrugiNaziv>LFI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>237</ID_Proizvodjac>
+    <NazivP>Ferring AB; Ferring International Center SA</NazivP>
+    <DrugiNaziv>FIC</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švedska; Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>238</ID_Proizvodjac>
+    <NazivP>Draxis Pharma INC.</NazivP>
+    <DrugiNaziv>DPI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Kanada</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>239</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome Production; S.C. Europharm S.A.</NazivP>
+    <DrugiNaziv>GWE</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska; Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>240</ID_Proizvodjac>
+    <NazivP>GlaxoSmithKline Pharmaceuticals S.A; Glaxo Wellcome Operations</NazivP>
+    <DrugiNaziv>GWO</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Poljska; Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>241</ID_Proizvodjac>
+    <NazivP>Lek farmacevtska družba d.d. u saradnji sa Vifor Inc, Švajcarska</NazivP>
+    <DrugiNaziv>LFV</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>242</ID_Proizvodjac>
+    <NazivP>Alcon-Couvreur N.V.</NazivP>
+    <DrugiNaziv>ACN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>243</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d. u saradnji sa F. Hoffmann-La Roche Ltd.</NazivP>
+    <DrugiNaziv>AHR</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>244</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d. u saradnji sa Italfarmaco S.P.A, Italija</NazivP>
+    <DrugiNaziv>AIT</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>245</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d. u saradnji sa Sanofi-Aventis, Francuska</NazivP>
+    <DrugiNaziv>ASA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>246</ID_Proizvodjac>
+    <NazivP>Berlin-Chemie (Menarini group)</NazivP>
+    <DrugiNaziv>BCG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>247</ID_Proizvodjac>
+    <NazivP>Bristol Myers-Squibb</NazivP>
+    <DrugiNaziv>BMI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>248</ID_Proizvodjac>
+    <NazivP>Bristol Myers-Squibb</NazivP>
+    <DrugiNaziv>BMS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>249</ID_Proizvodjac>
+    <NazivP>Galenika a.d. u saradnji sa Abbott GmbH &amp; Co. KG</NazivP>
+    <DrugiNaziv>GAC</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>250</ID_Proizvodjac>
+    <NazivP>Galenika a.d. u saradnji sa F. Hoffmann-La Roche Ltd, Švajcarska</NazivP>
+    <DrugiNaziv>GHR</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>251</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa Sanofi Winthrop Industrie, Francuska</NazivP>
+    <DrugiNaziv>HWI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>252</ID_Proizvodjac>
+    <NazivP>Hemofarm Koncern "Zorka Pharma" a.d. u saradnji sa Bristol Mayers-Squibb Company</NazivP>
+    <DrugiNaziv>HZB</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>253</ID_Proizvodjac>
+    <NazivP>Istituto De Angeli S.R.L. za L.Molteni &amp; C. Dei F. LLI Alitti Societa Di Eserc</NazivP>
+    <DrugiNaziv>IAM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>254</ID_Proizvodjac>
+    <NazivP>Les Laboratoires Servier Industrie</NazivP>
+    <DrugiNaziv>LLI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>255</ID_Proizvodjac>
+    <NazivP>Pfizer Health AB</NazivP>
+    <DrugiNaziv>PHA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švedska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>256</ID_Proizvodjac>
+    <NazivP>Pfizer Italia S.R.L.</NazivP>
+    <DrugiNaziv>PIS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>257</ID_Proizvodjac>
+    <NazivP>Pfizer Manufacturing Deutschland GmbH</NazivP>
+    <DrugiNaziv>PMD</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>258</ID_Proizvodjac>
+    <NazivP>Merck Sharp &amp; Dohme B.V.</NazivP>
+    <DrugiNaziv>MSD</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>259</ID_Proizvodjac>
+    <NazivP>Laboratories Merck Sharp &amp; Dohme-Chibret</NazivP>
+    <DrugiNaziv>MSC</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>260</ID_Proizvodjac>
+    <NazivP>Organon Ireland Ltd.</NazivP>
+    <DrugiNaziv>OIL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>261</ID_Proizvodjac>
+    <NazivP>Novartis Pharma AG</NazivP>
+    <DrugiNaziv>NPS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>262</ID_Proizvodjac>
+    <NazivP>Novartis Pharma Produktions GmbH</NazivP>
+    <DrugiNaziv>NPG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>263</ID_Proizvodjac>
+    <NazivP>Novartis Pharma Stein AG</NazivP>
+    <DrugiNaziv>NPA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>264</ID_Proizvodjac>
+    <NazivP>Novartis Pharmaceuticals UK Ltd.</NazivP>
+    <DrugiNaziv>NPB</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>265</ID_Proizvodjac>
+    <NazivP>Novartis Urunleri</NazivP>
+    <DrugiNaziv>NPT</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Turska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>266</ID_Proizvodjac>
+    <NazivP>P.P. Scherer GmbH Nemačka za Novartis Pharma Stein AG</NazivP>
+    <DrugiNaziv>NPP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>267</ID_Proizvodjac>
+    <NazivP>Nycomed Oranienburg GmbH</NazivP>
+    <DrugiNaziv>NOG</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>268</ID_Proizvodjac>
+    <NazivP>R.P. Scherer GmbH Nemačka za Novartis Pharma Stein AG</NazivP>
+    <DrugiNaziv>SNP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>269</ID_Proizvodjac>
+    <NazivP>Heinrich Mack Nachf. GmbH</NazivP>
+    <DrugiNaziv>HMN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>270</ID_Proizvodjac>
+    <NazivP>Catalent Italy S.P.A.</NazivP>
+    <DrugiNaziv>CIS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>271</ID_Proizvodjac>
+    <NazivP>Delpharm Lille SAS</NazivP>
+    <DrugiNaziv>DLS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>272</ID_Proizvodjac>
+    <NazivP>Schering S.A.</NazivP>
+    <DrugiNaziv>SSA</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>273</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d. u saradnji sa Teva Pharmaceutical Industries Ltd, Izrael</NazivP>
+    <DrugiNaziv>ZTP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>274</ID_Proizvodjac>
+    <NazivP>Sofarimex-Industria Quimica E Farmaceutica; Chinoin Pharmaceutical and Chemical</NazivP>
+    <DrugiNaziv>SCP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Portugalija; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>275</ID_Proizvodjac>
+    <NazivP>ICN Polfa Rzeszow S.A; Legacy Pharmaceuticals Switzerland GmbH</NazivP>
+    <DrugiNaziv>IPL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Poljska; Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>276</ID_Proizvodjac>
+    <NazivP>Wyeth Pharmaceuticals; Wyeth Medica Ireland</NazivP>
+    <DrugiNaziv>WWM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Velika Britanija; Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>277</ID_Proizvodjac>
+    <NazivP>Boehringer Ingelheim Pharma GmbH &amp; Co. KG</NazivP>
+    <DrugiNaziv>BIP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>279</ID_Proizvodjac>
+    <NazivP>Egis Pharmaceuticals PLC</NazivP>
+    <DrugiNaziv>EPP</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>280</ID_Proizvodjac>
+    <NazivP>ExtractumPharma Co.Ltd.</NazivP>
+    <DrugiNaziv>EPC</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>281</ID_Proizvodjac>
+    <NazivP>ExtractumPharma ZRT</NazivP>
+    <DrugiNaziv>EPZ</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>282</ID_Proizvodjac>
+    <NazivP>Sandoz GmbH</NazivP>
+    <DrugiNaziv>SGM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>283</ID_Proizvodjac>
+    <NazivP>Hammermuhle GmbH</NazivP>
+    <DrugiNaziv>HMM</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>284</ID_Proizvodjac>
+    <NazivP>Jadran Galenski Laboratorij d.d.</NazivP>
+    <DrugiNaziv>JGL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>285</ID_Proizvodjac>
+    <NazivP>Krka Tovarna Zdravil d.d; Krka Polska Spolka</NazivP>
+    <DrugiNaziv>KRK</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Slovenija; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>286</ID_Proizvodjac>
+    <NazivP>Novartis Pharma Stein AG; Novartis Farma S.P.A.</NazivP>
+    <DrugiNaziv>NPN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Švajcarska; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>287</ID_Proizvodjac>
+    <NazivP>Synthon Hispania S.L.</NazivP>
+    <DrugiNaziv>SYH</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>288</ID_Proizvodjac>
+    <NazivP>Pharmacia Italia S.P.L.</NazivP>
+    <DrugiNaziv>PIL</DrugiNaziv>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>289</ID_Proizvodjac>
+    <NazivP>A. Menarini, Manufacturing Logistics and Services S.R.L.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>290</ID_Proizvodjac>
+    <NazivP>Catalent France Beinheim SA</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>291</ID_Proizvodjac>
+    <NazivP>Chinoin Pharmaceutical and Chemical Works Co. Ltd.</NazivP>
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>221</ID_Proizvodjac>
+    <NazivP>Heumann Pharna GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>222</ID_Proizvodjac>
+    <NazivP>Cenexi SAS</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>223</ID_Proizvodjac>
+    <NazivP>Goedecke GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>278</ID_Proizvodjac>
+    <NazivP>Cipla Ltd.</NazivP>
+    <DrugiNaziv>CPL</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Indija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>292</ID_Proizvodjac>
+    <NazivP>Ferring GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>293</ID_Proizvodjac>
+    <NazivP>Gilead Sciences Ltd.</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>294</ID_Proizvodjac>
+    <NazivP>Glaxo Operations UK Limited</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>295</ID_Proizvodjac>
+    <NazivP>Haupt Pharma Wolfratshausen GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>296</ID_Proizvodjac>
+    <NazivP>Kern Pharma S.L.</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>297</ID_Proizvodjac>
+    <NazivP>Laboratoires Besins International; Besins Manufacturing Belgium</NazivP>
+    <Zemlja>Francuska; Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>298</ID_Proizvodjac>
+    <NazivP>Panacea Biotec Ltd.</NazivP>
+    <Zemlja>Indija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>299</ID_Proizvodjac>
+    <NazivP>Solvay Pharmaceuticals</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>300</ID_Proizvodjac>
+    <NazivP>Solvay Pharmaceuticals; Solvay Biologicals B.V.</NazivP>
+    <Zemlja>Francuska; Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>301</ID_Proizvodjac>
+    <NazivP>Ufar d.o.o. u saradnji sa Sandoz Pharmaceuticals d.d.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>302</ID_Proizvodjac>
+    <NazivP>Astellas Ireland Co. Ltd.</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>303</ID_Proizvodjac>
+    <NazivP>Gedeon Richter Ltd.</NazivP>
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>304</ID_Proizvodjac>
+    <NazivP>Aesica Queenborough Ltd</NazivP>
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>305</ID_Proizvodjac>
+    <NazivP>Vipharm S.A.</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>306</ID_Proizvodjac>
+    <NazivP>Sanofi Winthrop Industrie; Sanofi S.P.A.</NazivP>
+    <Zemlja>Francuska; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>307</ID_Proizvodjac>
+    <NazivP>Abbott Healthcare SAS</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>308</ID_Proizvodjac>
+    <NazivP>PharmaS d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>309</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa Pfizer H.C.P Corporation, USA</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>310</ID_Proizvodjac>
+    <NazivP>Abbott Biologicals B.V.</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>311</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome Operations; Glaxo Wellcome S.A.</NazivP>
+    <Zemlja>Velika Britanija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>312</ID_Proizvodjac>
+    <NazivP>Novartis Pharma S.A.S.</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>313</ID_Proizvodjac>
+    <NazivP>SmithKline Beecham Pharmaceuticals; Glaxo Wellcome S.A.</NazivP>
+    <Zemlja>Velika Britanija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>314</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d; Alkaloid d.o.o.</NazivP>
+    <Zemlja>Makedonija; Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>315</ID_Proizvodjac>
+    <NazivP>Novartis Farma S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>316</ID_Proizvodjac>
+    <NazivP>Krka Polska Spolka z.o.o.</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>317</ID_Proizvodjac>
+    <NazivP>Merck Sharp &amp; Dohme S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>318</ID_Proizvodjac>
+    <NazivP>Abbott Products GMBH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>319</ID_Proizvodjac>
+    <NazivP>Chiesi Pharmaceuticals GmbH</NazivP>
+    <Zemlja>Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>320</ID_Proizvodjac>
+    <NazivP>Pfizer GmbH, Arzeneimittelwerk Goedecke</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>321</ID_Proizvodjac>
+    <NazivP>Novo Nordisk A/S; Novo Nordisk Production S.A.S</NazivP>
+    <Zemlja>Danska; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>322</ID_Proizvodjac>
+    <NazivP>AstraZeneca GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>323</ID_Proizvodjac>
+    <NazivP>GlaxoSmithKline S.A.</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>324</ID_Proizvodjac>
+    <NazivP>Menarini Von Heyden GmbH; A. Menarini Manufacturing Logistics and Services S.R.L</NazivP>
+    <Zemlja>Nemačka; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>325</ID_Proizvodjac>
+    <NazivP>Novartis Pharma GMBH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>326</ID_Proizvodjac>
+    <NazivP>Krka Polska Spolka z.o.o.; Krka, tovarna zdravil, d.d.</NazivP>
+    <Zemlja>Poljska; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>327</ID_Proizvodjac>
+    <NazivP>Laboratoire Chauvin S.A.; Dr Gerhard Mann, Chem. - Pharm. Fabrik GMBH</NazivP>
+    <Zemlja>Francuska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>89</ID_Proizvodjac>
+    <NazivP>Sandoz S.R.L.</NazivP>
+    <Zemlja>Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>328</ID_Proizvodjac>
+    <NazivP>Corden Pharma Latina S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>329</ID_Proizvodjac>
+    <NazivP>Alvogen d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>330</ID_Proizvodjac>
+    <NazivP>Meda Pharma GmbH &amp; Co. KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>331</ID_Proizvodjac>
+    <NazivP>Galenika a.d. u saradnji sa Abbott GmbH &amp; Co. KG; Abbott Logistics B.V. </NazivP>
+    <Zemlja>Republika Srbija; Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>332</ID_Proizvodjac>
+    <NazivP>Ascoli</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>333</ID_Proizvodjac>
+    <NazivP>Astellas Pharma Europe B.V.</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>334</ID_Proizvodjac>
+    <NazivP>Gedeon Richter Polska SP. Z.O.O; Gedeon Richter PLC</NazivP>
+    <Zemlja>Poljska; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>335</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome GmbH &amp; Co. KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>336</ID_Proizvodjac>
+    <NazivP>Les Laboratoires Servier Industrie; Servier (Ireland) Industries LTD</NazivP>
+    <Zemlja>Francuska; Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>337</ID_Proizvodjac>
+    <NazivP>Rafarm S.A.</NazivP>
+    <Zemlja>Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>338</ID_Proizvodjac>
+    <NazivP>Servier (Ireland) Industries Ltd.; Les Laboratoires Servier Industrie</NazivP>
+    <Zemlja>Irska; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>339</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceutical Works Private Ltd. Company</NazivP>
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>340</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceuticals Europe B.V.</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>341</ID_Proizvodjac>
+    <NazivP>Servier (Ireland) Industries Ltd.; Les Laboratoires Servier Industrie; Anpharm P</NazivP>
+    <Zemlja>Irska; Francuska; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>346</ID_Proizvodjac>
+    <NazivP>Roche Pharma S.A.; F. Hoffmann-La Roche Ltd.</NazivP>
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>343</ID_Proizvodjac>
+    <NazivP>Roche S.P.A; F. Hoffmann-La Roche Ltd.</NazivP>
+    <Zemlja>Italija; Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>344</ID_Proizvodjac>
+    <NazivP>Merck Sante; Merck S.L.</NazivP>
+    <Zemlja>Francuska; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>345</ID_Proizvodjac>
+    <NazivP>Delpharm Lille Sas; Schering AG</NazivP>
+    <Zemlja>Francuska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>347</ID_Proizvodjac>
+    <NazivP>Roche Farma S.A; F. Hoffmann-La Roche Ltd.</NazivP>
+    <Zemlja>Španija; Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>348</ID_Proizvodjac>
+    <NazivP>Meda Pharma GmbH &amp; Co.KG; Cenexi S.A.S</NazivP>
+    <Zemlja>Nemačka; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>349</ID_Proizvodjac>
+    <NazivP>Ufar d.o.o. u saradnji sa Sandoz Pharmaceuticals d.d. Slovenija</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>350</ID_Proizvodjac>
+    <NazivP>Pfizer Ireland Pharmaceuticals</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>351</ID_Proizvodjac>
+    <NazivP>Eirgen Pharma Ltd.</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>352</ID_Proizvodjac>
+    <NazivP>Ivančić i sinovi d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>353</ID_Proizvodjac>
+    <NazivP>N.V.Nutricia Zoetermeer</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>419</ID_Proizvodjac>
+    <NazivP>Les Laboratoires Servier Industrie; Servier (Ireland) Industries LTD; Anpharm Pr</NazivP>
+    <Zemlja>Francuska; Irska; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>90</ID_Proizvodjac>
+    <NazivP>Salutas Pharma GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>91</ID_Proizvodjac>
+    <NazivP>Aventis Pharma Deutschland GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>92</ID_Proizvodjac>
+    <NazivP>Astellas</NazivP>
+    <Zemlja>Irska </Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>93</ID_Proizvodjac>
+    <NazivP>Medochemie Ltd</NazivP>
+    <Zemlja>Kipar</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>94</ID_Proizvodjac>
+    <NazivP>Actavis HF.</NazivP>
+    <Zemlja>Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>95</ID_Proizvodjac>
+    <NazivP>Actavis Ltd.</NazivP>
+    <Zemlja>Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>96</ID_Proizvodjac>
+    <NazivP>Pierre Fabre Medicament Production</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>97</ID_Proizvodjac>
+    <NazivP>Recordati S.P.A.</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>98</ID_Proizvodjac>
+    <NazivP>Krka Polska Spolka</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>99</ID_Proizvodjac>
+    <NazivP>CSC Pharmaceuticals GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>100</ID_Proizvodjac>
+    <NazivP>Laboratoire Chauvin S.a.</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>101</ID_Proizvodjac>
+    <NazivP>Allergan Pharmaceuticals Ireland</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>102</ID_Proizvodjac>
+    <NazivP>AstraZeneca AB</NazivP>
+    <Zemlja>Švedska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>103</ID_Proizvodjac>
+    <NazivP>Abbott Laboratories S.A.</NazivP>
+    <DrugiNaziv>ABL</DrugiNaziv>
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>104</ID_Proizvodjac>
+    <NazivP>Dr Schär GmbH</NazivP>
+    <DrugiNaziv>DRS</DrugiNaziv>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>105</ID_Proizvodjac>
+    <NazivP>S.C. Sindan-Pharma S.R.L.</NazivP>
+    <DrugiNaziv>SPH</DrugiNaziv>
+    <Zemlja>Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>106</ID_Proizvodjac>
+    <NazivP>Boehringer Ingelhaim Limited</NazivP>
+    <DrugiNaziv>BIL</DrugiNaziv>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>107</ID_Proizvodjac>
+    <NazivP>Istituto De Angeli S.R.L.</NazivP>
+    <DrugiNaziv>IDA</DrugiNaziv>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>108</ID_Proizvodjac>
+    <NazivP>M.D. Nini d.o.o.</NazivP>
+    <DrugiNaziv>MDN</DrugiNaziv>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>109</ID_Proizvodjac>
+    <NazivP>Abbot S.P.A.</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>110</ID_Proizvodjac>
+    <NazivP>Amersham Healrh</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>111</ID_Proizvodjac>
+    <NazivP>Baxter AG</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>112</ID_Proizvodjac>
+    <NazivP>Baxter OncologyGmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>113</ID_Proizvodjac>
+    <NazivP>Beaufour Ipsen Industrie</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>114</ID_Proizvodjac>
+    <NazivP>Biotest Pharma Gmbh</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>115</ID_Proizvodjac>
+    <NazivP>Chiesi Farmaceutici S.p.A</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>116</ID_Proizvodjac>
+    <NazivP>Chiron S.R.L.</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>117</ID_Proizvodjac>
+    <NazivP>ChironBehring GMBH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>118</ID_Proizvodjac>
+    <NazivP>Delta Select GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>119</ID_Proizvodjac>
+    <NazivP>Fresenius Kabi</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>120</ID_Proizvodjac>
+    <NazivP>Fresinus Biotech GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>121</ID_Proizvodjac>
+    <NazivP>Guerbet</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>122</ID_Proizvodjac>
+    <NazivP>Helsinn Birex Pharmaceuticals Ltd</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>123</ID_Proizvodjac>
+    <NazivP>Imunološki zavod d.d.</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>124</ID_Proizvodjac>
+    <NazivP>Institut za transfuziju krvi Srbije</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>125</ID_Proizvodjac>
+    <NazivP>Institut za virusologiju, vakcine i serume "Torlak"</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>126</ID_Proizvodjac>
+    <NazivP>Ipsen Biopharm Limitid</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>127</ID_Proizvodjac>
+    <NazivP>Ipsen Pharma Biotech</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>128</ID_Proizvodjac>
+    <NazivP>Kedrion S.P.A</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>129</ID_Proizvodjac>
+    <NazivP>LFB</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>130</ID_Proizvodjac>
+    <NazivP>Lipomed</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>131</ID_Proizvodjac>
+    <NazivP>Nicholas Piramal India Ltd</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>132</ID_Proizvodjac>
+    <NazivP>Octapharma Pharmazeutica Produktionsges.m.b.H</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>133</ID_Proizvodjac>
+    <NazivP>Oktapharma AB</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>134</ID_Proizvodjac>
+    <NazivP>Pfizer</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>135</ID_Proizvodjac>
+    <NazivP>PFIZER H.C.P. CORPORATION</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>136</ID_Proizvodjac>
+    <NazivP>Pharmachemie B.V</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>137</ID_Proizvodjac>
+    <NazivP>Pharmatex Italia SRL</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>138</ID_Proizvodjac>
+    <NazivP>Pharmathen S.A.</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>139</ID_Proizvodjac>
+    <NazivP>Pliva Hrvatska d.o.o.</NazivP>
+    <Zemlja>Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>140</ID_Proizvodjac>
+    <NazivP>Rotexmedica GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>141</ID_Proizvodjac>
+    <NazivP>Sanna Hammeum</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>142</ID_Proizvodjac>
+    <NazivP>Sanochemia Pharmazeutika AG</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>143</ID_Proizvodjac>
+    <NazivP>Sanofi Pasteur</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>144</ID_Proizvodjac>
+    <NazivP>Serono Pharma</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>145</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceutical Industries Ltd.</NazivP>
+    <Zemlja>Izrael</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>146</ID_Proizvodjac>
+    <NazivP>Thera Select GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>147</ID_Proizvodjac>
+    <NazivP>Torrex Chiesi Pharma GmbH</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>148</ID_Proizvodjac>
+    <NazivP>Tyco Healthcare</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>149</ID_Proizvodjac>
+    <NazivP>Zao Verofarm Votonjež</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>150</ID_Proizvodjac>
+    <NazivP>ZLB Behring</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>151</ID_Proizvodjac>
+    <NazivP>Apoteka-galenska laboratorija</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>152</ID_Proizvodjac>
+    <NazivP>Innothera Chouzy</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>153</ID_Proizvodjac>
+    <NazivP>Ivax Pharmaceuticals</NazivP>
+    <Zemlja>Češka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>154</ID_Proizvodjac>
+    <NazivP>Lek farmacevtska družba d.d.</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>155</ID_Proizvodjac>
+    <NazivP>Lek Farmacevtska Družba D.D. u saradnji sa Tillots Pharma AG, Švajcarska</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>156</ID_Proizvodjac>
+    <NazivP>Nycomed GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>157</ID_Proizvodjac>
+    <NazivP>Pfizer Pharmaceuticals LLC</NazivP>
+    <Zemlja>Portoriko</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>158</ID_Proizvodjac>
+    <NazivP>Sanofi-Aventis Deutschland GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>159</ID_Proizvodjac>
+    <NazivP>Sanofi S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>160</ID_Proizvodjac>
+    <NazivP>Schering GmbH &amp; Co. Produktions KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>161</ID_Proizvodjac>
+    <NazivP>SmithKline Beecham Pharmaceuticals</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>203</ID_Proizvodjac>
+    <NazivP>Boehringer Ingelheim France</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>206</ID_Proizvodjac>
+    <NazivP>Acino AG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>207</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d. u saradnji sa Nycomed Austria GmbH</NazivP>
+    <Zemlja>Republika Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>208</ID_Proizvodjac>
+    <NazivP>Belupo, Lijekovi i kozmetika d.d.</NazivP>
+    <Zemlja>Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>209</ID_Proizvodjac>
+    <NazivP>Nextpharma SAS</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>210</ID_Proizvodjac>
+    <NazivP>Ni Medic d.o.o.,Srbija u saradnji sa Abbott Laboratories Limited,USA</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>211</ID_Proizvodjac>
+    <NazivP>Nobelfarma Ilac Sanayii Ve Ticaret A.S.</NazivP>
+    <Zemlja>Turska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>212</ID_Proizvodjac>
+    <NazivP>Novartis Farmaceutica S.A.</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>213</ID_Proizvodjac>
+    <NazivP>Novo Nordisk Production S.A.S Francuska</NazivP>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>214</ID_Proizvodjac>
+    <NazivP>Pfizer Manufacturing Belgium NV</NazivP>
+    <Zemlja>Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>215</ID_Proizvodjac>
+    <NazivP>Solvay Biologicals B.V.</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>216</ID_Proizvodjac>
+    <NazivP>Sopharma PLC</NazivP>
+    <Zemlja>Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>217</ID_Proizvodjac>
+    <NazivP>UCB Pharma SA</NazivP>
+    <Zemlja>Belgija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>218</ID_Proizvodjac>
+    <NazivP>VIPHARM</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>219</ID_Proizvodjac>
+    <NazivP>Medico Uno d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>224</ID_Proizvodjac>
+    <NazivP>Alkaloid d.o.o.</NazivP>
+    <DrugiNaziv>ALS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>225</ID_Proizvodjac>
+    <NazivP>Boehringer Ingelheim Pharma GmbH &amp; Co. KG; Delpharm Reims</NazivP>
+    <DrugiNaziv>BID</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>226</ID_Proizvodjac>
+    <NazivP>Boehringer Ingelheim Ellas A.E.</NazivP>
+    <DrugiNaziv>BHE</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>227</ID_Proizvodjac>
+    <NazivP>Slaviamed d.o.o. u saradnji sa Krka Tovarna Zdravil d.d, Slovenija</NazivP>
+    <DrugiNaziv>SKS</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>228</ID_Proizvodjac>
+    <NazivP>Abbott GmbH &amp; Co. KG</NazivP>
+    <DrugiNaziv>ABN</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>229</ID_Proizvodjac>
+    <NazivP>Abbott Laboratories</NazivP>
+    <DrugiNaziv>ALV</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>230</ID_Proizvodjac>
+    <NazivP>Abbott S.R.L.</NazivP>
+    <DrugiNaziv>ABI</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>231</ID_Proizvodjac>
+    <NazivP>Aziende Chimiche Riunite Angelini Francesco  S.P.A.</NazivP>
+    <DrugiNaziv>ACR</DrugiNaziv>
+    <StaraSifra />
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>363</ID_Proizvodjac>
+    <NazivP>Meda Pharma GmbH &amp; Co.KG; Cenexi S.A.S; F. Hoffmann-La Roche Ltd.</NazivP>
+    <Zemlja>Nemačka; Francuska, Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>364</ID_Proizvodjac>
+    <NazivP>Meda Pharma GmbH &amp; Co. KG; Meda Manufacturing GmbH</NazivP>
+    <Zemlja>Nemačka; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>383</ID_Proizvodjac>
+    <NazivP>AbbVie S.r.l.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>416</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; Actavis LTD; Actavis EHF</NazivP>
+    <Zemlja>Republika Srbija; Malta; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>417</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d.; Actavis LTD</NazivP>
+    <Zemlja>Republika Srbija; Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>420</ID_Proizvodjac>
+    <NazivP>Bayer Weimar GmbH &amp; CO.KG; Bayer Pharma AG</NazivP>
+    <Zemlja>Nemačka; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>421</ID_Proizvodjac>
+    <NazivP>Bayer Pharma AG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>422</ID_Proizvodjac>
+    <NazivP>Bayer Weimar GmbH &amp; CO.KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>423</ID_Proizvodjac>
+    <NazivP>Delpharm Lille Sas; Bayer Weimar GmbH &amp; CO.KG</NazivP>
+    <Zemlja>Francuska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>424</ID_Proizvodjac>
+    <NazivP>Novartis Pharma GmbH; Novartis Pharmaceuticals UK Ltd.</NazivP>
+    <Zemlja>Nemačka; Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>425</ID_Proizvodjac>
+    <NazivP>Novartis Pharma Stein AG; Novartis Pharma GmBH</NazivP>
+    <Zemlja>Švajcarska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>426</ID_Proizvodjac>
+    <NazivP>ICN Polfa Rzeszow S.A</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>427</ID_Proizvodjac>
+    <NazivP>Sofarimex-Industria Quimica E Farmaceutica S.A.; Sanofi Aventis ZRT</NazivP>
+    <Zemlja>Portugalija; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>428</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; Balkanpharma-Dupnitsa ad; Actavis LTD.; Actavis EHF</NazivP>
+    <Zemlja>Republika Srbija; Bugarska; Malta; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>429</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; Actavis UK Limited; Balkanpharma-Dupnitsa ad</NazivP>
+    <Zemlja>Republika Srbija; Velika Britanija; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>430</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; Balkanpharma-Dupnitsa ad</NazivP>
+    <Zemlja>Republika Srbija; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>431</ID_Proizvodjac>
+    <NazivP>JGL D.O.O. BEOGRAD-SOPOT</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>432</ID_Proizvodjac>
+    <NazivP>Niche Generics Limited</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>433</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; S.C.Sindan-Pharma S.R.L.</NazivP>
+    <Zemlja>Republika Srbija; Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>434</ID_Proizvodjac>
+    <NazivP>Zdravlje A.D; Actavis EHF</NazivP>
+    <Zemlja>Republika Srbija; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>435</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa GlaxoSmithKline Export Ltd. Velika Britanija;Glaxo W</NazivP>
+    <DrugiNaziv>ellcome Production</DrugiNaziv>
+    <Zemlja>Republika Srbija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>436</ID_Proizvodjac>
+    <NazivP>Hemofarm a.d. u saradnji sa GlaxoSmithKline Export Ltd. Velika Britanija;Glaxo W</NazivP>
+    <DrugiNaziv>ellcome S.A.</DrugiNaziv>
+    <Zemlja>Republika Srbija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>437</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; Balkanpharma-Dupnitsa ad; Actavis LTD.</NazivP>
+    <DrugiNaziv />
+    <Zemlja>Republika Srbija; Bugarska; Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>438</ID_Proizvodjac>
+    <NazivP>Medico Uno d.o.o.; PharmaSwiss d.o.o.</NazivP>
+    <DrugiNaziv />
+    <Zemlja>Republika Srbija; Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>439</ID_Proizvodjac>
+    <NazivP>Krka Tovarna Zdravil d.d.; Krka Farma d.o.o.</NazivP>
+    <Zemlja>Slovenija; Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>418</ID_Proizvodjac>
+    <NazivP>Merck Sante S.A.S; Merck S.L.; Merck KGaA; Merck KGaA &amp; Co. WERK SPITTAL; Famar </NazivP>
+    <Zemlja>Francuska; Španija; Nemačka; Austrija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>440</ID_Proizvodjac>
+    <NazivP>Mylan Laboratories SAS</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>449</ID_Proizvodjac>
+    <NazivP>Actavis LTD; Adoc d.o.o</NazivP>
+    <Zemlja>Malta; Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>450</ID_Proizvodjac>
+    <NazivP>Tad Pharma GmbH; Krka Polska Spolka Z.O.O.; Krka, Tovarna zdravil, D.D.</NazivP>
+    <Zemlja>Nemačka; Poljska; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>451</ID_Proizvodjac>
+    <NazivP>Actavis LTD.; Balkanpharma Dupnitsa AD</NazivP>
+    <Zemlja>Malta; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>452</ID_Proizvodjac>
+    <NazivP>APL Swift Services (Malta) LTD</NazivP>
+    <Zemlja>Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>453</ID_Proizvodjac>
+    <NazivP>S.C. Sandoz S.R.L.; Lek S.A.; Salutas Pharma GmbH; Lek farmacevtska družba d.d.</NazivP>
+    <Zemlja>Rumunija; Poljska; Nemačka; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>454</ID_Proizvodjac>
+    <NazivP>Special Products Line S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>455</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.; Farmea</NazivP>
+    <Zemlja>Republika Srbija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>464</ID_Proizvodjac>
+    <NazivP>Andersonbrecon (UK) Ltd.; PharmaSwiss d.o.o. Ljubljana</NazivP>
+    <Zemlja>Velika Britanija; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>465</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.; Pharma Pack Hungary KFT.; S.C. Labormed-Pharma S.A.</NazivP>
+    <Zemlja>Republika Srbija; Mađarska; Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>466</ID_Proizvodjac>
+    <NazivP>Recipharm Fontaine; Mylan Laboratories SAS</NazivP>
+    <Zemlja>Francuska; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>467</ID_Proizvodjac>
+    <NazivP>PharmaS d.o.o.; Pharmathen International SA; Pharmathen SA</NazivP>
+    <Zemlja>Republika Srbija; Grčka; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>468</ID_Proizvodjac>
+    <NazivP>Alcon-Couvreur N.V.; Alcon Cusi S.A.</NazivP>
+    <Zemlja>Belgija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>470</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome S.A.</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>471</ID_Proizvodjac>
+    <NazivP>Krka, Tovarna zdravil, d.d;Pharmaten S.A</NazivP>
+    <Zemlja>Slovenija; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>472</ID_Proizvodjac>
+    <NazivP>Menarini - Von Heyden GmbH; Berlin - Chemie AG</NazivP>
+    <Zemlja>Nemačka; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>473</ID_Proizvodjac>
+    <NazivP>Merck S.L; Merck Sante S.A.S; Merck KGaA</NazivP>
+    <Zemlja>Španija; Francuska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>474</ID_Proizvodjac>
+    <NazivP>S.C. Gedeon Richter Romania S.A.</NazivP>
+    <Zemlja>Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>475</ID_Proizvodjac>
+    <NazivP>Actelion Pharmaceuticals LTD</NazivP>
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>480</ID_Proizvodjac>
+    <NazivP>Lilly France; Eli Lilly Italia S.P.A.</NazivP>
+    <Zemlja>Francuska; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>481</ID_Proizvodjac>
+    <NazivP>Glaxo Operations UK Limited; GlaxoSmithKline Pharmaceuticals S.A.</NazivP>
+    <Zemlja>Velika Britanija; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>482</ID_Proizvodjac>
+    <NazivP>Sopharma AD</NazivP>
+    <Zemlja>Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>483</ID_Proizvodjac>
+    <NazivP>Remedica Ltd.; Rontis Hellas Medical and Pharmaceutical Products S.A.</NazivP>
+    <Zemlja>Kipar; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>484</ID_Proizvodjac>
+    <NazivP>Merz Pharma GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>485</ID_Proizvodjac>
+    <NazivP>Lilly France</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>486</ID_Proizvodjac>
+    <NazivP>GlaxoSmithKline Pharmaceuticals  S.A.; S.C. Europharm S.A.</NazivP>
+    <Zemlja>Poljska; Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>377</ID_Proizvodjac>
+    <NazivP>Union-Medic d.o.o. Novi Sad</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>378</ID_Proizvodjac>
+    <NazivP>Ebewe Arzneimittel GmbH</NazivP>
+    <Zemlja>Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>379</ID_Proizvodjac>
+    <NazivP>Cenexi SAS; DSM Fine Chemicals Austria Nfg. GmbH &amp; Co KG</NazivP>
+    <Zemlja>Francuska; Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>441</ID_Proizvodjac>
+    <NazivP>Qualiphar NV; Menarini-Von Heyden GmbH; Berlin-Chemie AG (Menarini Group)</NazivP>
+    <Zemlja>Belgija; Nemačka; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>469</ID_Proizvodjac>
+    <NazivP>Egis Pharmaceuticals PLC; Egis Pharmaceuticals PLC; Anpharm Przedsiebiorstwo Far</NazivP>
+    <Zemlja>Mađarska;Mađarska;Poljska;Irska;Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>487</ID_Proizvodjac>
+    <NazivP>Aspen Bad Oldesloe GmbH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>488</ID_Proizvodjac>
+    <NazivP>Actavis EHF; Actavis LTD; Balkanpharma-Dupnitsa AD</NazivP>
+    <Zemlja>Island;Malta;Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>489</ID_Proizvodjac>
+    <NazivP>Aesica Pharmaceuticals S.R.L</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>490</ID_Proizvodjac>
+    <NazivP>Aleksandrija Fruška gora d.o.o.</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>491</ID_Proizvodjac>
+    <NazivP>Genepharm SA; Krka, Tovarna Zdravil, d.d.</NazivP>
+    <Zemlja>Grčka; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>492</ID_Proizvodjac>
+    <NazivP>Merck Sante S.A.S; Merck KGaA</NazivP>
+    <Zemlja>Francuska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>493</ID_Proizvodjac>
+    <NazivP>Merckle GmbH; HBM Pharma S.R.O.</NazivP>
+    <Zemlja>Nemačka; Slovačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>494</ID_Proizvodjac>
+    <NazivP>S.C. Antibiotice S.A.</NazivP>
+    <Zemlja>Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>495</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceuticals Europe B.V.;Teva Operations Poland SP.Z.O.O;Norton Waterfor</NazivP>
+    <Zemlja>Holandija; Poljska; Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>496</ID_Proizvodjac>
+    <NazivP>Recipharm Uppsala AB</NazivP>
+    <Zemlja>Švedska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>497</ID_Proizvodjac>
+    <NazivP>Ufar d.o.o. u saradnji sa Sandoz Pharmaceuticals d.d. Slovenija; LEK S.A.</NazivP>
+    <Zemlja>Republika Srbija; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>498</ID_Proizvodjac>
+    <NazivP>Pharmaswiss d.o.o</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>499</ID_Proizvodjac>
+    <NazivP>Haupt Pharma Latina S.R.L;Pfizer Manufacturing Deutschland GmbH-Betriebsstatte</NazivP>
+    <Zemlja>Italija; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>500</ID_Proizvodjac>
+    <NazivP>Balkanpharma - Dupnitsa a.d.; Actavis Ltd.</NazivP>
+    <Zemlja>Bugarska; Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>501</ID_Proizvodjac>
+    <NazivP>Farmazeutische Fabrik Montavit Ges.m.b.H</NazivP>
+    <Zemlja>Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>502</ID_Proizvodjac>
+    <NazivP>Industrias Farmaceuticas Almirall SA</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>503</ID_Proizvodjac>
+    <NazivP>Nutricia Cuijk B.V.</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>504</ID_Proizvodjac>
+    <NazivP>Salutas Pharma GmBH;Lek Pharmaceuticals D.D;Lek S.A;Salutas Pharma GmBH;Lek farm</NazivP>
+    <Zemlja>Nemačka; Slovenija; Poljska; Nemačka; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>505</ID_Proizvodjac>
+    <NazivP>Sopharma Pharmaceuticals AD</NazivP>
+    <Zemlja>Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>506</ID_Proizvodjac>
+    <NazivP>Zambon Switzerland Ltd</NazivP>
+    <Zemlja>Švajcarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>507</ID_Proizvodjac>
+    <NazivP>Merckle GmbH;HBM Pharma S.R.O.;Teva Pharma B.V.;Pliva Hrvatska d.o.o.;Teva UK</NazivP>
+    <Zemlja>Nemačka; Slovačka; Holandija; Hrvatska; Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>508</ID_Proizvodjac>
+    <NazivP>Nobel Ilac Sanayii ve Ticaret A.S.</NazivP>
+    <Zemlja>Turska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>509</ID_Proizvodjac>
+    <NazivP>Actavis UK Limited; Balkanpharma-Dupnitsa ad</NazivP>
+    <Zemlja>Velika Britanija; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>510</ID_Proizvodjac>
+    <NazivP>Balkanpharma-Dupnitsa ad</NazivP>
+    <Zemlja>Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>511</ID_Proizvodjac>
+    <NazivP>Excella GmbH &amp; CO.KG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>512</ID_Proizvodjac>
+    <NazivP>Medochemie Ltd (Central factory)</NazivP>
+    <Zemlja>Kipar</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>513</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d.; Dragenopharm Apotheker Puschl GMBH; Balkanpharma-Dupnitsa AD</NazivP>
+    <Zemlja>Republika Srbija; Nemačka; Bugarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>514</ID_Proizvodjac>
+    <NazivP>Facta Farmaceutici S.P.A.</NazivP>
+    <Zemlja>Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>515</ID_Proizvodjac>
+    <NazivP>Merck S.L; Merck Sante S.A.S; Merck KGaA; Famar  Lyon</NazivP>
+    <Zemlja>Španija; Francuska; Nemačka; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>516</ID_Proizvodjac>
+    <NazivP>Merck Sante S.A.S; Merck KGaA;  Famar  Lyon</NazivP>
+    <Zemlja>Francuska; Nemačka; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>517</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d.; Hemofarm AD Vršac</NazivP>
+    <Zemlja>Republika Srbija; Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>518</ID_Proizvodjac>
+    <NazivP>Bayer AG; Bayer Farmacevtska družba d.o.o.</NazivP>
+    <Zemlja>Nemačka; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>519</ID_Proizvodjac>
+    <NazivP>PharmaS d.o.o. Beograd</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>520</ID_Proizvodjac>
+    <NazivP>Haupt Pharma Wolfratshausen GmbH; Amomed Pharma GmbH</NazivP>
+    <Zemlja>Nemačka; Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>521</ID_Proizvodjac>
+    <NazivP>Pencef Pharma GMBH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>522</ID_Proizvodjac>
+    <NazivP>Krka Polska SP. Z.O.O.</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>523</ID_Proizvodjac>
+    <NazivP>Actavis Group PTC EHF; Merckle GMBH</NazivP>
+    <Zemlja>Island; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>524</ID_Proizvodjac>
+    <NazivP>Takeda GmbH; AstraZeneca AB</NazivP>
+    <Zemlja>Nemačka; Švedska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>525</ID_Proizvodjac>
+    <NazivP>Balkanpharma-Dupnitsa AD; Actavis EHF</NazivP>
+    <Zemlja>Bugarska; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>526</ID_Proizvodjac>
+    <NazivP>Boehgringer Ingelheim Pharma GmbH&amp;Co.Kg</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>527</ID_Proizvodjac>
+    <NazivP>Egis Pharmaceuticals PLC;  Anpharm Przedsiebiorstwo Farmaceutyczne S.A.; Servier</NazivP>
+    <Zemlja>Mađarska; Poljska; Irska; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>528</ID_Proizvodjac>
+    <NazivP>Fareva Amboise</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>529</ID_Proizvodjac>
+    <NazivP>Ferrer Internacional SA</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>530</ID_Proizvodjac>
+    <NazivP>Gilead Sciences Ireland UC</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>531</ID_Proizvodjac>
+    <NazivP>Krka D.D., Novo mesto;  TAD Pharma GmbH</NazivP>
+    <Zemlja>Slovenija;  Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>532</ID_Proizvodjac>
+    <NazivP>Krka, Tovarna Zdravil, d.d.; TAD Pharma GmbH; Krka farma d.o.o.</NazivP>
+    <Zemlja>Slovenija; Nemačka; Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>533</ID_Proizvodjac>
+    <NazivP>Laboratorios Liconsa S.A.</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>534</ID_Proizvodjac>
+    <NazivP>Laboratorios Servier S.L; Ampharm Prezdsiebiorstwo Farmaceutyczne S.A.; Servier </NazivP>
+    <Zemlja>Španija; Poljska; Irska; Francuska; Mađarska; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>535</ID_Proizvodjac>
+    <NazivP>Laboratorios Sevier S.L.,   Les laboratories Servier Industrie, Servier (IRELAND</NazivP>
+    <Zemlja>Španija, Francuska, Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>536</ID_Proizvodjac>
+    <NazivP>Merck KGaA &amp; CO. Werk Spittal</NazivP>
+    <Zemlja>Austrija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>442</ID_Proizvodjac>
+    <NazivP>Zdravlje a.d; Balkanpharma-Dupnitsa ad; Actavis EHF</NazivP>
+    <Zemlja>Republika Srbija; Bugarska; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>443</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.; S.C. Labormed - Pharma S.A.; Pharma Pack Hungary Kft.</NazivP>
+    <Zemlja>Republika Srbija; Rumunija; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>444</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.; Pharmathen S.A.</NazivP>
+    <Zemlja>Republika Srbija; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>445</ID_Proizvodjac>
+    <NazivP>Galenika a.d. Beograd</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>446</ID_Proizvodjac>
+    <NazivP>Bristol Myers-Squibb S.R.L.; Aesica Queenborough Limited</NazivP>
+    <Zemlja>Italija; Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>447</ID_Proizvodjac>
+    <NazivP>Andersonbrecon (UK) Ltd.</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>448</ID_Proizvodjac>
+    <NazivP>Sword Laboratories T/A Lawrence laboratories</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>476</ID_Proizvodjac>
+    <NazivP>Berlin-Chemie AG</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>477</ID_Proizvodjac>
+    <NazivP>Krka D.D.</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>478</ID_Proizvodjac>
+    <NazivP>Haupt Pharma Amareg GmbH; PharmaSwiss d.o.o.</NazivP>
+    <Zemlja>Nemačka; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>479</ID_Proizvodjac>
+    <NazivP>PharmaS d.o.o.; Pharmathen International SA;</NazivP>
+    <Zemlja>Republika Srbija; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>537</ID_Proizvodjac>
+    <NazivP>Merck S.L; Merck Sante S.A.S</NazivP>
+    <Zemlja>Španija; Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>538</ID_Proizvodjac>
+    <NazivP>Merckle GmbH; Pliva Hrvatska d.o.o.</NazivP>
+    <Zemlja>Nemačka; Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>539</ID_Proizvodjac>
+    <NazivP>Mundipharmab GmBH; Bard Pharmaceuticals Limited</NazivP>
+    <Zemlja>Nemačka, Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>540</ID_Proizvodjac>
+    <NazivP>Mylan B.V.; Mcdermott Laboratories Limited T/A Mylan Dublin; Mylan Hungary KFT.</NazivP>
+    <Zemlja>Holandija; Irska; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>541</ID_Proizvodjac>
+    <NazivP>Tad Pharma GmbH; Krka Farma d.o.o., DPC Jastrebarsko; Krka, Tovarna Zdravil, d.d</NazivP>
+    <Zemlja>Nemačka; Hrvatska; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>542</ID_Proizvodjac>
+    <NazivP>Krka d.d. u saradnji sa Janssen Pharmaceutica N.V, Belgija</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>543</ID_Proizvodjac>
+    <NazivP>Teva Pharma B.V.; Pliva Hrvatska d.o.o.; Teva Gyogyszergzar ZRT</NazivP>
+    <Zemlja>Holandija; Hrvatska; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>544</ID_Proizvodjac>
+    <NazivP>Stada Arzneimittel AG; Stadapharm GmbH; Synthon Hispania, S.L.</NazivP>
+    <Zemlja>Nemačka; Nemačka, Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>549</ID_Proizvodjac>
+    <NazivP>Mylan Hungary Kft.</NazivP>
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>550</ID_Proizvodjac>
+    <NazivP>Farmasierra Manufacturing S.L.; Famar Nederland B.V.; Farmalider S.A.</NazivP>
+    <Zemlja>Španija; Holandija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>551</ID_Proizvodjac>
+    <NazivP>Cilag A; Janssen Cilag S.P.A.</NazivP>
+    <Zemlja>Švajcarska; Italija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>552</ID_Proizvodjac>
+    <NazivP>EMS, S.A.</NazivP>
+    <Zemlja>Brazil</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>553</ID_Proizvodjac>
+    <NazivP>Germed Farmaceutica, LTDA</NazivP>
+    <Zemlja>Brazil</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>554</ID_Proizvodjac>
+    <NazivP>Les Laboratoires Servier Industrie; Servier (Ireland) Industries Ltd; AnpharmPrz</NazivP>
+    <Zemlja>Francuska; Irska; Poljska; Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>555</ID_Proizvodjac>
+    <NazivP>Mylan Hungary KFT.; Mcdermott Laboratoires Ltd T/A Gerard Laboratoires T/A Mylan</NazivP>
+    <Zemlja>Mađarska; Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>556</ID_Proizvodjac>
+    <NazivP>Laboratorios Leon farma, S.A.; Krka d.d., Novo Mesto</NazivP>
+    <Zemlja>Španija; Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>557</ID_Proizvodjac>
+    <NazivP>Cipla (EU) Limited</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>558</ID_Proizvodjac>
+    <NazivP>PharmaS d.o.o.; PharmaS d.o.o.</NazivP>
+    <Zemlja>Republika Srbija; Republika Hrvatska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>559</ID_Proizvodjac>
+    <NazivP>A. Menarini, Manufacturing Logistics and Services S.R.L.; Laboratorios Menarini</NazivP>
+    <Zemlja>Italija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>560</ID_Proizvodjac>
+    <NazivP>Teva Pharmaceuticals Europe B.V.; Pliva Hrvatska d.o.o.; Teva Operations PL</NazivP>
+    <Zemlja>Holandija; Hrvatska; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>561</ID_Proizvodjac>
+    <NazivP>Merckle GmbH; HBM Pharma S.R.O.; Teva Pharma B.V.; Pliva Hrvatska d.o.o.; Teva</NazivP>
+    <Zemlja>Nemačka; Slovačka; Holandija; Hrvatska; Velika Britanija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>562</ID_Proizvodjac>
+    <NazivP>Glaxo Wellcome Production; Glaxosmithkline Pharmaceuticals S.A.</NazivP>
+    <Zemlja>Francuska; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>563</ID_Proizvodjac>
+    <NazivP>Fresenius Kabi Deutschland GmBH</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>564</ID_Proizvodjac>
+    <NazivP>UP Industries</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>565</ID_Proizvodjac>
+    <NazivP>IL CSM Clinical Supplies Management; Waymade PLC.</NazivP>
+    <Zemlja>Nemačka; Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>566</ID_Proizvodjac>
+    <NazivP>Krka D.D. Novo Mesto; Krka Polska SP. Z.O.O.</NazivP>
+    <Zemlja>Slovenija; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>567</ID_Proizvodjac>
+    <NazivP>Teva Gyogyszergyar ZRT.</NazivP>
+    <Zemlja>Mađarska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>568</ID_Proizvodjac>
+    <NazivP>Lek S.A.</NazivP>
+    <Zemlja>Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>569</ID_Proizvodjac>
+    <NazivP>Recipharm Parets S.L.; Italfarmaco S.A.</NazivP>
+    <Zemlja>Španija; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>570</ID_Proizvodjac>
+    <NazivP>AstraZeneca Dunkerque Production Dunkerque</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>571</ID_Proizvodjac>
+    <NazivP>Laboratorios Liconsa S.A.; Teva Pharma B.V.; Teva Poland SP.Z.O.O.; Actavis LTD</NazivP>
+    <Zemlja>Španija; Holandija; Poljska; Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>572</ID_Proizvodjac>
+    <NazivP>Cipla (EU) Limited; S&amp;D Pharma CZ, Spol. S.R.O.</NazivP>
+    <Zemlja>Velika Britanija; Češka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>573</ID_Proizvodjac>
+    <NazivP>S&amp;D Pharma CZ, Spol. S.R.O.</NazivP>
+    <Zemlja>Češka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>574</ID_Proizvodjac>
+    <NazivP>Farmea</NazivP>
+    <Zemlja>Francuska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>575</ID_Proizvodjac>
+    <NazivP>Orion Corporation Orion Pharma, Novartis Pharma GmbH;</NazivP>
+    <Zemlja>Finska; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>576</ID_Proizvodjac>
+    <NazivP>Alkaloid a.d..; Pharmathen S.A.</NazivP>
+    <Zemlja>Republika Severna Makedonija; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>577</ID_Proizvodjac>
+    <NazivP>Farmaceutisch Analytisch Laboratorium Duiven B.V; Medochemie LTD (Factory AZ)</NazivP>
+    <Zemlja>Holandija, Kipar</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>578</ID_Proizvodjac>
+    <NazivP>MC Dermott Laboratories Limited T/A Mylan Dublin</NazivP>
+    <Zemlja>Irska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>579</ID_Proizvodjac>
+    <NazivP>Merckle GmbH; Teva Operations Poland SP.Z.O.O.</NazivP>
+    <Zemlja>Nemačka; Poljska</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>580</ID_Proizvodjac>
+    <NazivP>Alkaloid AD Skopje</NazivP>
+    <Zemlja>Republika Severna Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>456</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.; S.C. Labormed - Pharma S.A.</NazivP>
+    <Zemlja>Republika Srbija; Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>457</ID_Proizvodjac>
+    <NazivP>Chiesi Farmaceutici S.P.A; Chiesi Pharmaceuticals GmbH</NazivP>
+    <Zemlja>Italija; Austija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>458</ID_Proizvodjac>
+    <NazivP>Farmasierra Manufacturing S.L.</NazivP>
+    <Zemlja>Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>459</ID_Proizvodjac>
+    <NazivP>Jaka-80 Radoviš a.d.</NazivP>
+    <Zemlja>Republika Makedonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>460</ID_Proizvodjac>
+    <NazivP>Merck S.L; Merck KGaA&amp;Co.WERK SPITTAL; Merck KGaA</NazivP>
+    <Zemlja>Španija; Austrija;Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>461</ID_Proizvodjac>
+    <NazivP>Vianex S.A. - Plant B</NazivP>
+    <Zemlja>Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>462</ID_Proizvodjac>
+    <NazivP>Vianex S.A. - Plant A</NazivP>
+    <Zemlja>Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>581</ID_Proizvodjac>
+    <NazivP>Krka D.D., Novo Mesto</NazivP>
+    <Zemlja>Slovenija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>582</ID_Proizvodjac>
+    <NazivP>Pharmadox Healthcare Ltd.</NazivP>
+    <Zemlja>Malta</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>583</ID_Proizvodjac>
+    <NazivP>Slaviamed d.o.o. Beograd</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>584</ID_Proizvodjac>
+    <NazivP>Famar A.V.E. Alimos Plant; Balkanpharma-Razgrad AD; Pharmathen SA</NazivP>
+    <Zemlja>Grčka; Bugarska; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>585</ID_Proizvodjac>
+    <NazivP>Amgen Europe B.V.</NazivP>
+    <Zemlja>Holandija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>586</ID_Proizvodjac>
+    <NazivP>Chanelle Medical Ltd; Akciju Sabiedriba Grindeks</NazivP>
+    <Zemlja>Irska; Letonija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>587</ID_Proizvodjac>
+    <NazivP>Alvogen Pharma d.o.o.; Genepharm SA</NazivP>
+    <Zemlja>Republika Srbija; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>588</ID_Proizvodjac>
+    <NazivP>Pharmaserve North West Limited</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>589</ID_Proizvodjac>
+    <NazivP>Garmed Farmaceutica, LTDA</NazivP>
+    <Zemlja>Brazil</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>590</ID_Proizvodjac>
+    <NazivP>Menarini-Von Hezden GmbH; Synthon Hispania, S.L.</NazivP>
+    <Zemlja>Nemačka; Španija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>591</ID_Proizvodjac>
+    <NazivP>Krka D.D., Novo Mesto; Synthon Hispania, S.L.; Synthon BV; Tad Pharma GmbH</NazivP>
+    <Zemlja>Slovenija; Španija; Holandija; Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>592</ID_Proizvodjac>
+    <NazivP>PharmaSwiss d.o.o.; Pharmathen SA</NazivP>
+    <Zemlja>Republika Srbija; Grčka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>593</ID_Proizvodjac>
+    <NazivP>S.C. Rompharm Company S.R.L.</NazivP>
+    <Zemlja>Rumunija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>594</ID_Proizvodjac>
+    <NazivP>Balkanpharma-Dupnitsa AD; Adoc d.o.o. Beograd</NazivP>
+    <Zemlja>Bugarska; Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>595</ID_Proizvodjac>
+    <NazivP>Merz Pharma GmbH&amp;Co. KGaA</NazivP>
+    <Zemlja>Nemačka</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>596</ID_Proizvodjac>
+    <NazivP>Glaxo Operations UK LTD Trading AS Glaxo Wellcome Operations</NazivP>
+    <Zemlja>Velika Britanija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>463</ID_Proizvodjac>
+    <NazivP>Aroma začini d.o.o. Prehrambena industrija</NazivP>
+    <Zemlja>Republika Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>545</ID_Proizvodjac>
+    <NazivP>Merckle GmbH; Teva Pharmaceutical Works Co.Ltd.; Teva UK Limited;  Pliva Hrvatsk</NazivP>
+    <Zemlja>Nemačka; Mađarska; Velika Britanija; Hrvatska</Zemlja>
+  </Proizvodjac>
+    <Proizvodjac>
+    <ID_Proizvodjac>10000</ID_Proizvodjac>
+    <NazivP>Andrija</NazivP>
+    <Zemlja>Srbija</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>546</ID_Proizvodjac>
+    <NazivP>Actavis UK Limited; Balkanpharma-Dupnista AD; Actavis EHF</NazivP>
+    <Zemlja>Velika Britanija; Bugarska; Island</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>547</ID_Proizvodjac>
+    <NazivP>Pharmascience International Limited</NazivP>
+    <Zemlja>Kipar</Zemlja>
+  </Proizvodjac>
+  <Proizvodjac>
+    <ID_Proizvodjac>548</ID_Proizvodjac>
+    <NazivP>S.C. Labormed - Pharma S.A.</NazivP>
+    <Zemlja>Rumunija</Zemlja>
+  </Proizvodjac>
+</SifarniciZaRecepte>

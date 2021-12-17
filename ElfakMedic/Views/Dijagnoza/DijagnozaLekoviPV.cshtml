@@ -1,0 +1,45 @@
+﻿@model ElfakMedic.Models.ViewModels.DijagnozaLekoviViewModel
+@{
+    Layout = "";
+}
+
+<div class="sidebar-dijagnoza" id="@Model.Dijagnoza.Id_dijagnoza">
+    <div class="sidebar-naslov">
+        <div style="display: inline-flex; place-items: center;">
+            <h4 style="margin-right: 25px;">@Model.Dijagnoza.Id_dijagnoza</h4>
+            <h5 style="display: inline-block;">
+                @Model.Dijagnoza.NazivSrpski
+                <br />
+                <div style="color: rgb(132, 132, 138);">@Model.Dijagnoza.NazivLatinski</div>
+            </h5>
+        </div>
+        <button class="btn btn-danger" onclick="removeDrugsFromSidebar('@Model.Dijagnoza.Id_dijagnoza')">Poništi dijagnozu</button>
+    </div>
+    @{
+        var idT = "lekForChosenDataTable" + Model.Count;
+    }
+
+    <table id="@idT" class="datatables table table-hover data-table dataTable" style="width:100%">
+        <thead>
+            <tr>
+                <th placeholder="Pun naziv leka">Naziv</th>
+                <th placeholder="Naziv proizvodjaca">Proizvođač</th>
+                <th placeholder="Da li se lek izdaje na recept">Na recept</th>
+                <th placeholder="Lista RFZO">Lista RFZO</th>
+                <th placeholder="Dnevna definisana doza">DDD</th>
+                <th placeholder="Procenjena cena sa PDV-om i max. procentom marže">Cena (din.)</th>
+                <th placeholder="Doplata pacijenata izrazena u dinarima">Doplata (din.)</th>
+                <th>Količina</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+<script type="text/javascript">
+    var dataForDatatable = @Html.Raw(Json.Encode(Model.Lekovi));
+    var counter = @Html.Raw(Json.Encode(Model.Count));
+    initializeLekoviDijagnozeDataTable(dataForDatatable, counter);
+</script>
+

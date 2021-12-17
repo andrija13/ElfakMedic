@@ -1,0 +1,172 @@
+﻿var counter = 0;
+
+function GetByRoot(id, thisDiv) {
+    var filter = $('#searchMKB').val();
+    if (filter == "") {
+        if ($("#" + id).hasClass('close')) {
+            $.get("Dijagnoza/DijagnozaPV", { root: id }, function (result) {
+                $('#' + id).html(result);
+                $('#' + id).addClass('open');
+                $('#' + id).removeClass('close');
+                $(thisDiv).find('h5').css('font-weight', 'bold');
+
+            }).fail(function () {
+                    alert("Greska!");
+            });
+        }
+        else {
+            $('#' + id).addClass('close');
+            $('#' + id).removeClass('open');
+            $(thisDiv).find('h5').css('font-weight', 'normal');
+        }
+    }
+    else {
+        $('#searchMKB').val("");
+        var parent = thisDiv.getAttribute('name');
+        var node = thisDiv.innerText;
+        $.get("Dijagnoza/GetByRootAfterSearch", { root: id }, function (result) {
+            var fvv = thisDiv.parentNode.previousElementSibling.innerText;
+            $('#MKB-10').html(result);
+            document.querySelectorAll('div[name]').forEach(x => {
+                $('#' + x.getAttribute('name')).append(x);
+                $('#' + x.getAttribute('name')).removeClass('close');
+                $('#' + x.getAttribute('name')).addClass('open');
+            });
+            $('h5:contains(' + parent + ')').css('font-weight', 'bold');
+            $('h5:contains(' + node + ')').css('font-weight', 'bold');
+
+        }).fail(function () {
+            alert("Greska!");
+        });
+    }
+}
+
+var timeout = null;
+function doSearch(event) {
+    jQuery.expr[':'].icontains = function (a, i, m) {
+        return jQuery(a).text().toUpperCase()
+            .indexOf(m[3].toUpperCase()) >= 0;
+    };
+    //if (event.keyCode != "8" && event.keyCode != "16") {
+    var filter = $('#searchMKB').val().trim().replaceAll("'", "''");
+    if (filter != "" && filter.length > 2) {
+        clearTimeout(timeout)
+        timeout = setTimeout(function () {
+            $.get("Dijagnoza/GetBySearch", { filter: filter }, function (result) {
+                $('#MKB-10').html(result);
+                document.querySelectorAll('div[name]').forEach(x => {
+                    $('#' + x.getAttribute('name')).append(x);
+                    $('#' + x.getAttribute('name')).removeClass('close');
+                    $('#' + x.getAttribute('name')).addClass('open');
+                    $('.level_0').find('h5').css('font-weight', 'bold');
+                    $('.level_1').find('h5').css('font-weight', 'bold');
+                });
+                //sigurno moze bolje - ne prikazuje lepo velika i mala slova
+                //$('h5:icontains(' + filter + ')', document.body).each(function () {
+                //    $(this).html($(this).html().replace(
+                //        new RegExp(filter, 'i'), '<span class=someclass>' + filter + '</span>'
+                //    ));
+                //});
+            }).fail(function () {
+                alert("Greska!");
+            });
+        }, 300)
+    }
+    else {
+        $.get("Dijagnoza/GetByLevel", { level: 0 }, function (result) {
+            $('#MKB-10').html(result);
+        }).fail(function () {
+            alert("Greska!");
+        });
+    }
+    //}
+}
+
+window.onscroll = function () {
+    scrollFunction();
+};
+
+function scrollFunction() {
+    if (
+        document.body.scrollTop > 20 ||
+        document.documentElement.scrollTop > 20
+    ) {
+        $("#btn-back-to-top").css('display', 'block');
+    } else {
+        $("#btn-back-to-top").css('display', 'none');
+    }
+}
+
+function backToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+
+function addTable(idDijagnoza) {
+    counter++;
+    $.get("Dijagnoza/GetDrugsByDiagnosis", { idDijagnoza: idDijagnoza, counter: counter }, function (result) {
+        if (!$("#wrapper").hasClass("menuDisplayed")){
+            $("#wrapper").toggleClass("menuDisplayed");
+        }
+        $('#sidebar-wrapper').append(result);
+    }).fail(function () {
+        alert("Greska!");
+    });
+}
+
+function initializeLekoviDijagnozeDataTable(data, counter) {
+    var idT = '#lekForChosenDataTable' + counter;
+    $(idT).DataTable({
+        "stateSave": true,
+        "destroy": true,
+        "processing": true,
+        "scrollX": true,
+        "autoWidth": true,
+        "responsive": true,
+        "data": data,
+        "pagingType": "full_numbers",
+        "lengthChange": true,
+        "lengthMenu": [[6, 10, 25, 50], [6, 10, 25, 50]],
+        "order": [[0, "asc"]],
+        "pageLength": 6,
+        "columnDefs": [
+            //{ "width": 50, "orderable": false, "searchable": false, "targets": 2 },
+            //{ "width": 50, "orderable": false, "searchable": false, "targets": 3 },
+            //{ "width": 50, "orderable": false, "searchable": true, "targets": 4 },
+            //{ "width": 30, "orderable": false, "searchable": false, "targets": 5 }
+        ],
+        "columns": [
+            { "data": "Sifra", "sClass": "Sifra text-center", "sName": "NazivKol" },
+            { "data": "Naziv", "sClass": "Naziv" },
+            { "data": "ProizvodjacId", "sClass": "ProizvodjacId text-center" },
+            { "data": "IdATC", "sClass": "IdATC text-center" },
+            {
+                "data": "BrojJedinica", "render": function (data, type, full) {
+                    return (full['BrojJedinica'] != null) ? (full['BrojJedinica'] + ' ' + full['JedinicaMere']) : "/";
+                }
+            },
+            {
+                "data": "SelectButton", "sClass": "SelectButton", "render": function (val, _, obj) {
+
+                    return RenderContactSelectButton(obj);
+                },
+            },
+            { "data": "Id", "sClass": "Id", "visible": false }
+        ],
+        "language": { url: '/Content/dataTableResourceSerbian.json' }
+    });
+    $('#lekForChosenDataTable' + counter).DataTable().columns.adjust().draw();
+};
+
+function RenderContactSelectButton(obj) {
+
+    return ' <input type="checkbox" value="'+ obj["Sifra"] +'" class="selectContactCheckBox" title="Izaberi" />';
+}
+
+//$('#D352').find('table[id^="lekForChosenDataTable"]').find('.SelectButton').find('.selectContactCheckBox:checkbox:checked')
+//    .each(function () { console.log($(this).val()) })
+
+$("#menu-toggle").click(function (e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("menuDisplayed");
+});

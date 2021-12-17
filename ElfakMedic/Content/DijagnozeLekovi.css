@@ -1,0 +1,121 @@
+﻿.datatables {
+    width: 100%;
+    font-family: Poppins;
+    -webkit-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.15);
+    --bs-table-hover-color: rgb(139, 181, 218);
+    --bs-table-hover-bg: rgba(184, 221, 253, 0.2);
+    color: #141414;
+    table-layout: fixed;
+    word-wrap: break-word;
+    border: 0;
+}
+
+.datatables thead {
+    border-radius: 15px 15px 0 0;
+    -webkit-box-shadow: inset 0 0 50px 20px rgba(0, 135, 255, 0.2);
+    box-shadow: inset 0 0 500px 20px rgba(0, 135, 255, 0.2);
+    color: #8bb5da;
+}
+
+.datatables thead th {
+  padding: 15px;
+  font-weight: 500;
+  background-color: transparent;
+}
+
+td {
+  padding: 10px 15px 10px 15px !important;
+  border-width: 0 !important;
+  vertical-align: middle;
+}
+
+td span {
+  font-weight: 600;
+}
+
+tbody, tfoot, th, thead, td {
+  border-style: hidden !important;
+}
+
+tbody > tr:hover {
+    background: rgba(0, 135, 255, 0.25);
+    border: 2px solid #B5DCFF;
+    --bs-table-accent-bg: var(--bs-table-hover-bg);
+    color: var(--bs-table-hover-color);
+}
+
+tbody > tr:hover .btn {
+    background-color: #c9c8c8;
+}
+
+tbody > tr:hover .btn strong {
+    color: black;
+}
+
+.paginate_button {
+    border-radius: 7px !important;
+}
+
+.paginate_input {
+    width: 50px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.datatables tbody tr:nth-child(even):hover td {
+    background-color: #92c1cf17 !important;
+}
+
+.datatables tbody tr:nth-child(odd):hover td {
+    background-color: #92c1cf17 !important;
+}
+
+/*.dataTable tbody tr:hover > .sorting_1 {
+    background-color: #ffa;
+}*/
+
+/*.Naziv, .NazivProizvodjaca {
+    min-width: 150px;
+    max-width: 160px;
+}
+
+.SelectButton, .ProizvodjacId, .IdATC, .NaRecept, .Doplata, .DDD {
+    max-width: 40px;
+    min-width: 35px;
+}
+
+.Sifra, .UkupnaCena {
+    max-width: 50px;
+    min-width: 45px;
+}*/
+.SelectButton {
+    width: 33px !important;
+}
+.Naziv, .NazivProizvodjaca {
+    min-width: 150px;
+    width: 42px !important;
+}
+
+.UkupnaCena, .Doplata, .NaRecept, .DDD, .ListaRFZO {
+    max-width: 35px;
+}
+
+.dataTables_scrollHeadInner, .table {
+    width: 100% !important;
+}
+
+.Doplata {
+    width: 15px !important;
+}
+
+.UkupnaCena, .NaRecept, .ListaRFZO {
+    width: 10px !important;
+}
+
+.DDD {
+    width: 0px !important;
+}
