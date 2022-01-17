@@ -34,7 +34,7 @@
                 }
             },
             {
-                "data": "DDD", "sClass": "DDD", "render": function (data, type, full) {
+                "data": "DDD", "sClass": "DDD text-center", "render": function (data, type, full) {
                     if (data != null) {
                         return data;
                     }

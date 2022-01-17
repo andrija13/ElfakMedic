@@ -125,7 +125,7 @@ namespace ElfakMedic.Controllers
             Table table = new Table();
             table.Border = new BorderInfo(BorderSide.All, .5f, Color.FromRgb(System.Drawing.Color.Black));
             table.DefaultCellBorder = new BorderInfo(BorderSide.All, .5f, Color.FromRgb(System.Drawing.Color.Black));
-            table.ColumnWidths = "120 120 50 65 65"; //440 sve ukupno mora da bude
+            table.ColumnWidths = "120 120 35 35 65 65"; //440 sve ukupno mora da bude
             table.DefaultColumnWidth = 100.ToString();
             table.DefaultCellPadding = new MarginInfo { Top = 2f, Left = 2f, Right = 0f, Bottom = 2f };
 
@@ -133,9 +133,10 @@ namespace ElfakMedic.Controllers
             row.BackgroundColor = Color.LightSteelBlue;
             row.Cells.Add("Dijagnoza");
             row.Cells.Add("Prepisani lekovi");
+            row.Cells.Add("Na recept");
             row.Cells.Add("Kolicina");
-            row.Cells.Add("Cena (din.)");
-            row.Cells.Add("Doplata (din.)");
+            row.Cells.Add("Cena (RSD)");
+            row.Cells.Add("Doplata (RSD)");
 
             decimal ukupnaCena = 0.0m;
             decimal ukupnaDoplata = 0.0m;
@@ -152,7 +153,8 @@ namespace ElfakMedic.Controllers
                     if (lek != null)
                     {
                         row.Cells.Add("► " + lek.Naziv + " " + lek.NazivProizvodjaca);
-                        row.Cells.Add(lek.Kolicina.ToString());
+                        row.Cells.Add(lek.NaRecept ? "Da" : "Ne").Alignment = HorizontalAlignment.Center;
+                        row.Cells.Add(lek.Kolicina.ToString()).Alignment = HorizontalAlignment.Center;
 
                         if (lek.UkupnaCena != null)
                         {
@@ -192,7 +194,7 @@ namespace ElfakMedic.Controllers
             }
 
             row = table.Rows.Add();
-            row.Cells.Add("UKUPNO:").ColSpan = 3;
+            row.Cells.Add("UKUPNO:").ColSpan = 4;
             row.Cells.Add(ukupnaCena.ToString("0.##"));
             row.Cells.Add(ukupnaDoplata.ToString("0.##")).DefaultCellTextState.ForegroundColor = Color.Red;
 
